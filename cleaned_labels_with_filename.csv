@@ -1,0 +1,1709 @@
+Turn ID,Participant ID number,PD_or_C,number_of_turning_steps,turning_angle,type_of_turn,turning_duration,On_or_Off_medication,filename
+0,230,C,4,90.0,pivot_turn,1.980999,Control,Pt230_C_n_0.npy
+2,230,C,2,90.0,pivot_turn,1.278,Control,Pt230_C_n_2.npy
+4,230,C,2,90.0,pivot_turn,1.092999,Control,Pt230_C_n_4.npy
+5,230,C,2,90.0,pivot_turn,1.205999,Control,Pt230_C_n_5.npy
+7,230,C,2,90.0,pivot_turn,1.399,Control,Pt230_C_n_7.npy
+8,230,C,2,90.0,pivot_turn,1.976999,Control,Pt230_C_n_8.npy
+10,230,C,2,90.0,pivot_turn,1.143,Control,Pt230_C_n_10.npy
+11,230,C,2,90.0,pivot_turn,1.383999,Control,Pt230_C_n_11.npy
+15,230,C,2,90.0,pivot_turn,1.414999,Control,Pt230_C_n_15.npy
+19,230,C,2,90.0,pivot_turn,1.581,Control,Pt230_C_n_19.npy
+20,230,C,2,90.0,pivot_turn,1.379999,Control,Pt230_C_n_20.npy
+21,230,C,1,90.0,pivot_turn,1.119,Control,Pt230_C_n_21.npy
+22,230,C,2,90.0,pivot_turn,1.485999,Control,Pt230_C_n_22.npy
+24,230,C,2,180.0,pivot_turn,1.316,Control,Pt230_C_n_24.npy
+25,230,C,2,90.0,pivot_turn,1.725999,Control,Pt230_C_n_25.npy
+30,230,C,2,90.0,pivot_turn,1.904,Control,Pt230_C_n_30.npy
+33,230,C,5,90.0,pivot_turn,4.285999,Control,Pt230_C_n_33.npy
+37,230,C,3,180.0,pivot_turn,2.877999,Control,Pt230_C_n_37.npy
+39,842,PD,2,180.0,pivot_turn,1.127,On medication,Pt842_PD_n_39.npy
+40,842,PD,3,180.0,step_turn,1.581,On medication,Pt842_PD_n_40.npy
+41,842,PD,2,180.0,pivot_turn,1.531,On medication,Pt842_PD_n_41.npy
+42,842,PD,3,180.0,pivot_turn,1.672,On medication,Pt842_PD_n_42.npy
+43,230,C,3,90.0,pivot_turn,1.769999,Control,Pt230_C_n_43.npy
+46,842,PD,3,180.0,step_turn,1.332,On medication,Pt842_PD_n_46.npy
+47,842,PD,2,180.0,pivot_turn,1.136999,On medication,Pt842_PD_n_47.npy
+48,842,PD,2,180.0,pivot_turn,1.356999,On medication,Pt842_PD_n_48.npy
+50,842,PD,3,180.0,pivot_turn,1.292,On medication,Pt842_PD_n_50.npy
+52,842,PD,3,180.0,step_turn,1.729999,On medication,Pt842_PD_n_52.npy
+53,842,PD,2,180.0,pivot_turn,1.271,On medication,Pt842_PD_n_53.npy
+54,842,PD,3,180.0,pivot_turn,1.520999,On medication,Pt842_PD_n_54.npy
+55,842,PD,2,180.0,pivot_turn,1.086999,On medication,Pt842_PD_n_55.npy
+60,230,C,3,180.0,pivot_turn,1.420999,Control,Pt230_C_n_60.npy
+63,230,C,4,180.0,pivot_turn,1.584,Control,Pt230_C_n_63.npy
+64,230,C,2,180.0,pivot_turn,1.179999,Control,Pt230_C_n_64.npy
+65,230,C,3,180.0,pivot_turn,1.227,Control,Pt230_C_n_65.npy
+66,230,C,3,180.0,pivot_turn,1.399,Control,Pt230_C_n_66.npy
+67,230,C,4,180.0,pivot_turn,1.685999,Control,Pt230_C_n_67.npy
+68,230,C,3,180.0,pivot_turn,1.182999,Control,Pt230_C_n_68.npy
+70,230,C,4,180.0,pivot_turn,1.295,Control,Pt230_C_n_70.npy
+73,842,PD,2,180.0,pivot_turn,2.02,On medication,Pt842_PD_n_73.npy
+74,842,PD,4,180.0,pivot_turn,1.777999,On medication,Pt842_PD_n_74.npy
+75,842,PD,3,90.0,pivot_turn,1.792,On medication,Pt842_PD_n_75.npy
+78,230,C,3,90.0,pivot_turn,1.798999,Control,Pt230_C_n_78.npy
+80,230,C,2,135.0,pivot_turn,1.622999,Control,Pt230_C_n_80.npy
+81,842,PD,4,90.0,step_turn,1.572999,On medication,Pt842_PD_n_81.npy
+82,842,PD,3,90.0,pivot_turn,1.478999,On medication,Pt842_PD_n_82.npy
+83,842,PD,13,135.0,step_turn,7.908,On medication,Pt842_PD_n_83.npy
+84,842,PD,9,180.0,step_turn,6.816999,On medication,Pt842_PD_n_84.npy
+85,842,PD,3,90.0,pivot_turn,1.474,On medication,Pt842_PD_n_85.npy
+90,842,PD,1,90.0,pivot_turn,2.744999,On medication,Pt842_PD_n_90.npy
+91,842,PD,2,180.0,pivot_turn,1.482,On medication,Pt842_PD_n_91.npy
+92,842,PD,4,90.0,pivot_turn,2.68,On medication,Pt842_PD_n_92.npy
+93,842,PD,3,135.0,step_turn,2.4,On medication,Pt842_PD_n_93.npy
+96,842,PD,2,90.0,pivot_turn,1.742999,On medication,Pt842_PD_n_96.npy
+97,842,PD,4,90.0,step_turn,5.612,On medication,Pt842_PD_n_97.npy
+98,842,PD,4,135.0,pivot_turn,2.012,On medication,Pt842_PD_n_98.npy
+99,842,PD,2,90.0,pivot_turn,3.029999,On medication,Pt842_PD_n_99.npy
+101,230,C,2,135.0,pivot_turn,1.748,Control,Pt230_C_n_101.npy
+103,842,PD,2,90.0,step_turn,2.717,On medication,Pt842_PD_n_103.npy
+105,842,PD,3,90.0,pivot_turn,1.848,On medication,Pt842_PD_n_105.npy
+106,842,PD,2,90.0,step_turn,1.804999,On medication,Pt842_PD_n_106.npy
+107,842,PD,4,90.0,step_turn,2.375,On medication,Pt842_PD_n_107.npy
+108,842,PD,3,180.0,pivot_turn,1.9,On medication,Pt842_PD_n_108.npy
+109,842,PD,4,180.0,pivot_turn,2.004999,On medication,Pt842_PD_n_109.npy
+110,842,PD,2,135.0,pivot_turn,2.144,On medication,Pt842_PD_n_110.npy
+111,842,PD,3,135.0,pivot_turn,2.002999,On medication,Pt842_PD_n_111.npy
+112,842,PD,5,90.0,step_turn,4.348,On medication,Pt842_PD_n_112.npy
+114,842,PD,3,135.0,pivot_turn,2.208,On medication,Pt842_PD_n_114.npy
+115,842,PD,2,90.0,step_turn,3.548,On medication,Pt842_PD_n_115.npy
+116,230,C,3,180.0,pivot_turn,2.052999,Control,Pt230_C_n_116.npy
+118,842,PD,3,180.0,pivot_turn,2.247,On medication,Pt842_PD_n_118.npy
+119,842,PD,3,135.0,pivot_turn,2.390999,On medication,Pt842_PD_n_119.npy
+120,842,PD,3,90.0,step_turn,1.286,On medication,Pt842_PD_n_120.npy
+121,842,PD,3,135.0,pivot_turn,2.0,On medication,Pt842_PD_n_121.npy
+123,230,C,4,180.0,pivot_turn,3.029999,Control,Pt230_C_n_123.npy
+124,230,C,2,90.0,pivot_turn,1.438,Control,Pt230_C_n_124.npy
+125,842,PD,2,135.0,pivot_turn,1.852,On medication,Pt842_PD_n_125.npy
+126,842,PD,2,90.0,step_turn,1.944,On medication,Pt842_PD_n_126.npy
+128,842,PD,4,135.0,step_turn,2.892,On medication,Pt842_PD_n_128.npy
+129,842,PD,2,90.0,pivot_turn,1.588999,On medication,Pt842_PD_n_129.npy
+130,842,PD,2,90.0,pivot_turn,2.0,On medication,Pt842_PD_n_130.npy
+131,842,PD,1,90.0,pivot_turn,1.238999,On medication,Pt842_PD_n_131.npy
+135,842,PD,2,90.0,pivot_turn,1.676,On medication,Pt842_PD_n_135.npy
+136,842,PD,4,180.0,pivot_turn,2.717999,On medication,Pt842_PD_n_136.npy
+137,842,PD,4,135.0,pivot_turn,2.992,On medication,Pt842_PD_n_137.npy
+138,230,C,2,180.0,pivot_turn,2.676999,Control,Pt230_C_n_138.npy
+145,230,C,3,180.0,pivot_turn,1.871,Control,Pt230_C_n_145.npy
+149,842,PD,3,90.0,pivot_turn,3.373999,On medication,Pt842_PD_n_149.npy
+152,842,PD,3,90.0,pivot_turn,1.696,On medication,Pt842_PD_n_152.npy
+153,842,PD,2,90.0,pivot_turn,1.47,On medication,Pt842_PD_n_153.npy
+154,842,PD,4,135.0,step_turn,4.501,On medication,Pt842_PD_n_154.npy
+158,230,C,2,90.0,pivot_turn,1.192,Control,Pt230_C_n_158.npy
+161,842,PD,5,135.0,step_turn,4.866,On medication,Pt842_PD_n_161.npy
+163,842,PD,4,180.0,pivot_turn,3.092999,On medication,Pt842_PD_n_163.npy
+164,842,PD,1,90.0,step_turn,1.469,On medication,Pt842_PD_n_164.npy
+166,842,PD,4,135.0,pivot_turn,3.342999,On medication,Pt842_PD_n_166.npy
+167,842,PD,3,180.0,pivot_turn,2.432,On medication,Pt842_PD_n_167.npy
+169,842,PD,3,135.0,pivot_turn,1.988999,On medication,Pt842_PD_n_169.npy
+170,842,PD,4,135.0,pivot_turn,3.396999,On medication,Pt842_PD_n_170.npy
+174,842,PD,2,90.0,pivot_turn,5.421999,On medication,Pt842_PD_n_174.npy
+175,842,PD,4,135.0,step_turn,3.06,On medication,Pt842_PD_n_175.npy
+177,842,PD,1,90.0,step_turn,2.341,On medication,Pt842_PD_n_177.npy
+179,842,PD,4,180.0,pivot_turn,3.257999,On medication,Pt842_PD_n_179.npy
+181,230,C,2,90.0,pivot_turn,1.312,Control,Pt230_C_n_181.npy
+182,842,PD,5,180.0,step_turn,4.266999,On medication,Pt842_PD_n_182.npy
+184,842,PD,2,180.0,pivot_turn,1.956,On medication,Pt842_PD_n_184.npy
+185,842,PD,2,90.0,pivot_turn,1.536999,On medication,Pt842_PD_n_185.npy
+186,842,PD,3,135.0,pivot_turn,2.156,On medication,Pt842_PD_n_186.npy
+188,842,PD,2,90.0,pivot_turn,1.837999,On medication,Pt842_PD_n_188.npy
+189,842,PD,1,90.0,pivot_turn,1.079,On medication,Pt842_PD_n_189.npy
+190,842,PD,2,90.0,pivot_turn,1.646999,On medication,Pt842_PD_n_190.npy
+191,842,PD,3,180.0,pivot_turn,2.281999,On medication,Pt842_PD_n_191.npy
+193,842,PD,2,180.0,pivot_turn,1.885,On medication,Pt842_PD_n_193.npy
+194,842,PD,3,180.0,pivot_turn,2.446,On medication,Pt842_PD_n_194.npy
+197,842,PD,2,90.0,pivot_turn,2.895,On medication,Pt842_PD_n_197.npy
+198,842,PD,3,135.0,pivot_turn,2.005999,On medication,Pt842_PD_n_198.npy
+199,842,PD,3,90.0,pivot_turn,2.726,On medication,Pt842_PD_n_199.npy
+200,842,PD,3,135.0,pivot_turn,1.708999,On medication,Pt842_PD_n_200.npy
+202,842,PD,3,90.0,pivot_turn,3.934,On medication,Pt842_PD_n_202.npy
+203,842,PD,5,180.0,step_turn,3.462,On medication,Pt842_PD_n_203.npy
+204,842,PD,6,180.0,pivot_turn,4.669999,On medication,Pt842_PD_n_204.npy
+208,842,PD,12,135.0,step_turn,6.741999,On medication,Pt842_PD_n_208.npy
+209,842,PD,2,90.0,step_turn,1.988999,On medication,Pt842_PD_n_209.npy
+211,842,PD,8,180.0,step_turn,5.332999,On medication,Pt842_PD_n_211.npy
+212,842,PD,2,135.0,pivot_turn,2.197999,On medication,Pt842_PD_n_212.npy
+213,842,PD,7,180.0,step_turn,4.174999,On medication,Pt842_PD_n_213.npy
+215,230,C,3,180.0,pivot_turn,2.236999,Control,Pt230_C_n_215.npy
+217,842,PD,5,90.0,step_turn,2.621999,On medication,Pt842_PD_n_217.npy
+220,230,C,4,180.0,pivot_turn,3.821,Control,Pt230_C_n_220.npy
+221,230,C,4,135.0,pivot_turn,3.605999,Control,Pt230_C_n_221.npy
+223,842,PD,5,180.0,pivot_turn,3.334,On medication,Pt842_PD_n_223.npy
+227,842,PD,2,90.0,pivot_turn,3.220999,On medication,Pt842_PD_n_227.npy
+228,842,PD,3,135.0,pivot_turn,2.107,On medication,Pt842_PD_n_228.npy
+232,842,PD,7,90.0,step_turn,2.864999,Off medication,Pt842_PD_n_232.npy
+233,842,PD,11,135.0,step_turn,5.084999,Off medication,Pt842_PD_n_233.npy
+235,842,PD,11,90.0,step_turn,5.163,Off medication,Pt842_PD_n_235.npy
+252,230,C,5,180.0,pivot_turn,3.414999,Control,Pt230_C_n_252.npy
+253,230,C,2,180.0,pivot_turn,1.976,Control,Pt230_C_n_253.npy
+255,230,C,2,90.0,pivot_turn,1.861999,Control,Pt230_C_n_255.npy
+256,842,PD,3,90.0,pivot_turn,1.928999,Off medication,Pt842_PD_n_256.npy
+257,230,C,3,180.0,pivot_turn,2.875,Control,Pt230_C_n_257.npy
+258,230,C,3,180.0,pivot_turn,1.965,Control,Pt230_C_n_258.npy
+259,230,C,3,135.0,pivot_turn,1.925999,Control,Pt230_C_n_259.npy
+262,842,PD,6,180.0,step_turn,2.666999,Off medication,Pt842_PD_n_262.npy
+263,842,PD,5,180.0,pivot_turn,2.832999,Off medication,Pt842_PD_n_263.npy
+264,842,PD,6,180.0,pivot_turn,2.291999,Off medication,Pt842_PD_n_264.npy
+265,842,PD,4,180.0,pivot_turn,2.375,Off medication,Pt842_PD_n_265.npy
+267,842,PD,5,180.0,pivot_turn,2.082999,Off medication,Pt842_PD_n_267.npy
+268,842,PD,6,180.0,pivot_turn,2.75,Off medication,Pt842_PD_n_268.npy
+269,842,PD,5,180.0,pivot_turn,2.0,Off medication,Pt842_PD_n_269.npy
+270,230,C,4,135.0,pivot_turn,2.460999,Control,Pt230_C_n_270.npy
+271,842,PD,5,180.0,step_turn,2.416999,Off medication,Pt842_PD_n_271.npy
+273,842,PD,5,90.0,step_turn,2.284999,Off medication,Pt842_PD_n_273.npy
+274,842,PD,5,90.0,step_turn,2.143,Off medication,Pt842_PD_n_274.npy
+275,842,PD,5,90.0,step_turn,3.285999,Off medication,Pt842_PD_n_275.npy
+276,842,PD,5,90.0,step_turn,2.643,Off medication,Pt842_PD_n_276.npy
+279,230,C,2,90.0,pivot_turn,2.0,Control,Pt230_C_n_279.npy
+280,230,C,2,180.0,pivot_turn,1.785,Control,Pt230_C_n_280.npy
+281,230,C,2,90.0,pivot_turn,1.642999,Control,Pt230_C_n_281.npy
+282,230,C,2,90.0,pivot_turn,1.714,Control,Pt230_C_n_282.npy
+283,230,C,2,90.0,pivot_turn,2.213999,Control,Pt230_C_n_283.npy
+284,230,C,2,90.0,pivot_turn,1.856999,Control,Pt230_C_n_284.npy
+285,230,C,2,90.0,pivot_turn,1.286,Control,Pt230_C_n_285.npy
+286,230,C,2,90.0,pivot_turn,1.715,Control,Pt230_C_n_286.npy
+289,230,C,2,90.0,pivot_turn,1.416999,Control,Pt230_C_n_289.npy
+290,230,C,2,90.0,pivot_turn,1.624999,Control,Pt230_C_n_290.npy
+293,230,C,3,90.0,pivot_turn,2.249999,Control,Pt230_C_n_293.npy
+295,230,C,2,90.0,pivot_turn,1.166,Control,Pt230_C_n_295.npy
+297,230,C,2,90.0,pivot_turn,1.749999,Control,Pt230_C_n_297.npy
+300,230,C,3,90.0,pivot_turn,2.708,Control,Pt230_C_n_300.npy
+301,230,C,3,90.0,pivot_turn,2.749999,Control,Pt230_C_n_301.npy
+302,230,C,2,90.0,pivot_turn,1.624999,Control,Pt230_C_n_302.npy
+304,230,C,4,180.0,pivot_turn,1.624999,Control,Pt230_C_n_304.npy
+305,230,C,4,180.0,pivot_turn,1.416999,Control,Pt230_C_n_305.npy
+306,230,C,4,180.0,pivot_turn,2.25,Control,Pt230_C_n_306.npy
+307,230,C,4,180.0,pivot_turn,2.25,Control,Pt230_C_n_307.npy
+308,230,C,3,180.0,pivot_turn,3.988999,Control,Pt230_C_n_308.npy
+309,230,C,3,180.0,pivot_turn,1.124999,Control,Pt230_C_n_309.npy
+310,230,C,3,180.0,pivot_turn,1.125,Control,Pt230_C_n_310.npy
+311,230,C,3,180.0,pivot_turn,1.375,Control,Pt230_C_n_311.npy
+315,230,C,2,90.0,pivot_turn,1.249999,Control,Pt230_C_n_315.npy
+318,842,PD,3,180.0,pivot_turn,2.070999,On medication,Pt842_PD_n_318.npy
+319,842,PD,3,180.0,pivot_turn,2.143,On medication,Pt842_PD_n_319.npy
+321,842,PD,4,90.0,step_turn,2.858,On medication,Pt842_PD_n_321.npy
+323,842,PD,6,180.0,step_turn,2.928999,On medication,Pt842_PD_n_323.npy
+325,842,PD,4,180.0,pivot_turn,2.643,On medication,Pt842_PD_n_325.npy
+326,842,PD,5,180.0,pivot_turn,2.284999,On medication,Pt842_PD_n_326.npy
+327,842,PD,4,180.0,pivot_turn,1.714999,On medication,Pt842_PD_n_327.npy
+328,842,PD,5,180.0,pivot_turn,2.572,On medication,Pt842_PD_n_328.npy
+329,842,PD,5,180.0,pivot_turn,2.928,On medication,Pt842_PD_n_329.npy
+330,842,PD,5,180.0,pivot_turn,2.571999,On medication,Pt842_PD_n_330.npy
+331,842,PD,5,180.0,pivot_turn,2.286,On medication,Pt842_PD_n_331.npy
+332,842,PD,4,180.0,pivot_turn,2.070999,On medication,Pt842_PD_n_332.npy
+335,842,PD,4,180.0,pivot_turn,1.857,On medication,Pt842_PD_n_335.npy
+337,842,PD,2,90.0,pivot_turn,2.333,On medication,Pt842_PD_n_337.npy
+339,842,PD,3,90.0,pivot_turn,2.332999,On medication,Pt842_PD_n_339.npy
+340,842,PD,3,90.0,pivot_turn,2.208999,On medication,Pt842_PD_n_340.npy
+341,842,PD,2,90.0,pivot_turn,1.624999,On medication,Pt842_PD_n_341.npy
+349,396,PD,3,90.0,step_turn,2.278,On medication,Pt396_PD_n_349.npy
+350,204,C,3,135.0,pivot_turn,2.596999,Control,Pt204_C_n_350.npy
+351,396,PD,4,180.0,step_turn,3.044,On medication,Pt396_PD_n_351.npy
+352,396,PD,3,90.0,step_turn,1.924999,On medication,Pt396_PD_n_352.npy
+353,396,PD,3,180.0,step_turn,1.847,On medication,Pt396_PD_n_353.npy
+354,396,PD,4,90.0,step_turn,1.148,On medication,Pt396_PD_n_354.npy
+359,396,PD,4,135.0,step_turn,2.43,On medication,Pt396_PD_n_359.npy
+360,204,C,3,90.0,step_turn,2.090999,Control,Pt204_C_n_360.npy
+361,396,PD,3,90.0,step_turn,2.806,On medication,Pt396_PD_n_361.npy
+363,396,PD,3,90.0,pivot_turn,1.824,On medication,Pt396_PD_n_363.npy
+365,204,C,2,90.0,pivot_turn,1.484,Control,Pt204_C_n_365.npy
+368,204,C,2,90.0,pivot_turn,1.356999,Control,Pt204_C_n_368.npy
+377,204,C,3,135.0,pivot_turn,2.523,Control,Pt204_C_n_377.npy
+379,204,C,3,90.0,pivot_turn,2.364,Control,Pt204_C_n_379.npy
+380,204,C,3,180.0,pivot_turn,2.552,Control,Pt204_C_n_380.npy
+387,204,C,3,180.0,pivot_turn,1.603999,Control,Pt204_C_n_387.npy
+391,204,C,1,90.0,pivot_turn,1.408999,Control,Pt204_C_n_391.npy
+392,396,PD,5,180.0,step_turn,2.248999,On medication,Pt396_PD_n_392.npy
+399,204,C,3,90.0,pivot_turn,2.101999,Control,Pt204_C_n_399.npy
+402,204,C,2,90.0,pivot_turn,1.629999,Control,Pt204_C_n_402.npy
+409,204,C,2,180.0,pivot_turn,1.324999,Control,Pt204_C_n_409.npy
+416,396,PD,5,90.0,step_turn,2.145999,On medication,Pt396_PD_n_416.npy
+417,396,PD,4,90.0,step_turn,2.051,On medication,Pt396_PD_n_417.npy
+418,396,PD,2,90.0,pivot_turn,4.267999,On medication,Pt396_PD_n_418.npy
+421,204,C,2,180.0,pivot_turn,1.371,Control,Pt204_C_n_421.npy
+424,396,PD,5,180.0,step_turn,2.074,On medication,Pt396_PD_n_424.npy
+425,396,PD,5,180.0,step_turn,1.956,On medication,Pt396_PD_n_425.npy
+440,204,C,1,90.0,pivot_turn,2.068,Control,Pt204_C_n_440.npy
+442,396,PD,2,90.0,pivot_turn,1.689,On medication,Pt396_PD_n_442.npy
+443,204,C,3,90.0,pivot_turn,1.536,Control,Pt204_C_n_443.npy
+445,396,PD,2,180.0,pivot_turn,1.369,On medication,Pt396_PD_n_445.npy
+457,204,C,3,180.0,pivot_turn,2.167,Control,Pt204_C_n_457.npy
+458,396,PD,3,135.0,pivot_turn,1.483,On medication,Pt396_PD_n_458.npy
+459,396,PD,3,135.0,pivot_turn,1.267,On medication,Pt396_PD_n_459.npy
+461,204,C,2,90.0,pivot_turn,1.038,Control,Pt204_C_n_461.npy
+462,396,PD,3,90.0,pivot_turn,1.943,On medication,Pt396_PD_n_462.npy
+465,396,PD,2,180.0,pivot_turn,1.591,On medication,Pt396_PD_n_465.npy
+466,396,PD,2,90.0,pivot_turn,1.994,On medication,Pt396_PD_n_466.npy
+467,396,PD,2,90.0,pivot_turn,1.246999,On medication,Pt396_PD_n_467.npy
+469,396,PD,3,90.0,step_turn,1.777999,On medication,Pt396_PD_n_469.npy
+472,204,C,2,180.0,pivot_turn,1.382,Control,Pt204_C_n_472.npy
+474,204,C,2,90.0,pivot_turn,1.342,Control,Pt204_C_n_474.npy
+475,204,C,2,90.0,pivot_turn,1.779,Control,Pt204_C_n_475.npy
+477,396,PD,2,90.0,pivot_turn,1.181,On medication,Pt396_PD_n_477.npy
+479,204,C,3,180.0,pivot_turn,2.186,Control,Pt204_C_n_479.npy
+483,396,PD,3,135.0,pivot_turn,2.001999,On medication,Pt396_PD_n_483.npy
+485,396,PD,6,135.0,step_turn,1.538,On medication,Pt396_PD_n_485.npy
+488,396,PD,6,180.0,step_turn,2.250999,On medication,Pt396_PD_n_488.npy
+490,204,C,1,90.0,pivot_turn,2.327999,Control,Pt204_C_n_490.npy
+494,396,PD,10,90.0,step_turn,5.068999,On medication,Pt396_PD_n_494.npy
+507,396,PD,4,180.0,step_turn,1.731999,On medication,Pt396_PD_n_507.npy
+511,396,PD,8,135.0,step_turn,2.449999,On medication,Pt396_PD_n_511.npy
+512,396,PD,7,180.0,step_turn,2.752999,On medication,Pt396_PD_n_512.npy
+514,396,PD,5,135.0,step_turn,1.496,On medication,Pt396_PD_n_514.npy
+515,396,PD,5,90.0,step_turn,2.52,On medication,Pt396_PD_n_515.npy
+516,396,PD,6,135.0,step_turn,2.84,On medication,Pt396_PD_n_516.npy
+518,204,C,2,180.0,pivot_turn,2.532,Control,Pt204_C_n_518.npy
+519,204,C,1,90.0,pivot_turn,1.251999,Control,Pt204_C_n_519.npy
+520,396,PD,10,180.0,step_turn,5.923,Off medication,Pt396_PD_n_520.npy
+522,396,PD,13,180.0,step_turn,6.909,Off medication,Pt396_PD_n_522.npy
+524,396,PD,5,90.0,step_turn,3.967,Off medication,Pt396_PD_n_524.npy
+525,396,PD,5,90.0,step_turn,3.214,Off medication,Pt396_PD_n_525.npy
+527,396,PD,10,90.0,step_turn,9.38,Off medication,Pt396_PD_n_527.npy
+528,396,PD,5,90.0,step_turn,4.049999,Off medication,Pt396_PD_n_528.npy
+529,204,C,2,180.0,pivot_turn,1.24,Control,Pt204_C_n_529.npy
+535,204,C,2,135.0,pivot_turn,1.86,Control,Pt204_C_n_535.npy
+536,396,PD,4,135.0,step_turn,1.618,Off medication,Pt396_PD_n_536.npy
+538,396,PD,6,180.0,step_turn,2.594,Off medication,Pt396_PD_n_538.npy
+541,396,PD,3,180.0,pivot_turn,1.164,Off medication,Pt396_PD_n_541.npy
+542,396,PD,3,180.0,pivot_turn,1.328,Off medication,Pt396_PD_n_542.npy
+543,396,PD,7,180.0,step_turn,2.319,Off medication,Pt396_PD_n_543.npy
+546,204,C,3,180.0,pivot_turn,1.711,Control,Pt204_C_n_546.npy
+547,204,C,3,180.0,pivot_turn,1.444,Control,Pt204_C_n_547.npy
+549,204,C,2,180.0,pivot_turn,2.471,Control,Pt204_C_n_549.npy
+550,204,C,3,180.0,pivot_turn,1.732,Control,Pt204_C_n_550.npy
+554,204,C,3,180.0,pivot_turn,1.203,Control,Pt204_C_n_554.npy
+555,204,C,3,180.0,pivot_turn,1.133999,Control,Pt204_C_n_555.npy
+557,204,C,3,180.0,pivot_turn,1.302999,Control,Pt204_C_n_557.npy
+560,396,PD,6,90.0,step_turn,1.799999,On medication,Pt396_PD_n_560.npy
+563,396,PD,5,90.0,step_turn,3.969999,On medication,Pt396_PD_n_563.npy
+571,396,PD,4,180.0,pivot_turn,1.711,On medication,Pt396_PD_n_571.npy
+572,396,PD,6,180.0,step_turn,2.534,On medication,Pt396_PD_n_572.npy
+582,412,PD,2,135.0,pivot_turn,1.409,On medication,Pt412_PD_n_582.npy
+585,884,C,2,90.0,pivot_turn,1.694,Control,Pt884_C_n_585.npy
+588,884,C,2,90.0,pivot_turn,1.909,Control,Pt884_C_n_588.npy
+589,884,C,2,90.0,pivot_turn,1.5,Control,Pt884_C_n_589.npy
+591,884,C,2,90.0,pivot_turn,1.291,Control,Pt884_C_n_591.npy
+592,884,C,2,90.0,pivot_turn,1.241999,Control,Pt884_C_n_592.npy
+593,412,PD,4,180.0,step_turn,2.04,On medication,Pt412_PD_n_593.npy
+595,884,C,3,90.0,pivot_turn,1.591,Control,Pt884_C_n_595.npy
+596,412,PD,3,180.0,step_turn,1.772,On medication,Pt412_PD_n_596.npy
+597,412,PD,3,180.0,step_turn,1.5,On medication,Pt412_PD_n_597.npy
+598,884,C,1,90.0,pivot_turn,1.090999,Control,Pt884_C_n_598.npy
+600,884,C,1,90.0,pivot_turn,1.136,Control,Pt884_C_n_600.npy
+602,884,C,5,180.0,step_turn,2.846,Control,Pt884_C_n_602.npy
+604,412,PD,4,180.0,step_turn,1.817999,On medication,Pt412_PD_n_604.npy
+605,412,PD,2,180.0,pivot_turn,1.091,On medication,Pt412_PD_n_605.npy
+606,412,PD,3,180.0,step_turn,1.682,On medication,Pt412_PD_n_606.npy
+607,884,C,2,90.0,step_turn,1.635999,Control,Pt884_C_n_607.npy
+609,412,PD,3,180.0,step_turn,1.772999,On medication,Pt412_PD_n_609.npy
+612,412,PD,2,90.0,step_turn,1.182,On medication,Pt412_PD_n_612.npy
+613,412,PD,2,180.0,pivot_turn,1.181999,On medication,Pt412_PD_n_613.npy
+617,884,C,2,90.0,pivot_turn,2.182,Control,Pt884_C_n_617.npy
+622,884,C,3,180.0,step_turn,2.228,Control,Pt884_C_n_622.npy
+641,412,PD,2,90.0,step_turn,1.226999,On medication,Pt412_PD_n_641.npy
+648,884,C,2,180.0,pivot_turn,1.273,Control,Pt884_C_n_648.npy
+651,884,C,2,180.0,step_turn,1.362999,Control,Pt884_C_n_651.npy
+652,884,C,1,180.0,pivot_turn,1.272999,Control,Pt884_C_n_652.npy
+653,884,C,1,180.0,step_turn,1.136999,Control,Pt884_C_n_653.npy
+674,884,C,2,90.0,pivot_turn,1.364,Control,Pt884_C_n_674.npy
+675,884,C,2,135.0,pivot_turn,1.953999,Control,Pt884_C_n_675.npy
+677,412,PD,2,90.0,pivot_turn,1.773,On medication,Pt412_PD_n_677.npy
+680,412,PD,2,90.0,pivot_turn,1.454,On medication,Pt412_PD_n_680.npy
+683,412,PD,3,90.0,pivot_turn,1.681999,On medication,Pt412_PD_n_683.npy
+684,412,PD,2,90.0,pivot_turn,1.363,On medication,Pt412_PD_n_684.npy
+695,412,PD,1,90.0,pivot_turn,1.090999,On medication,Pt412_PD_n_695.npy
+697,884,C,1,135.0,pivot_turn,1.455,Control,Pt884_C_n_697.npy
+698,412,PD,2,90.0,pivot_turn,1.454999,On medication,Pt412_PD_n_698.npy
+699,884,C,3,180.0,step_turn,3.408999,Control,Pt884_C_n_699.npy
+700,412,PD,1,135.0,pivot_turn,1.045999,On medication,Pt412_PD_n_700.npy
+703,412,PD,2,90.0,pivot_turn,1.182,On medication,Pt412_PD_n_703.npy
+707,884,C,3,90.0,pivot_turn,2.045999,Control,Pt884_C_n_707.npy
+710,412,PD,1,90.0,pivot_turn,1.272999,On medication,Pt412_PD_n_710.npy
+711,412,PD,2,135.0,step_turn,1.636,On medication,Pt412_PD_n_711.npy
+714,412,PD,2,90.0,pivot_turn,2.045999,On medication,Pt412_PD_n_714.npy
+715,412,PD,2,90.0,pivot_turn,1.090999,On medication,Pt412_PD_n_715.npy
+717,884,C,2,180.0,pivot_turn,1.819,Control,Pt884_C_n_717.npy
+718,412,PD,1,90.0,pivot_turn,1.045,On medication,Pt412_PD_n_718.npy
+721,884,C,2,135.0,step_turn,1.5,Control,Pt884_C_n_721.npy
+725,884,C,2,90.0,step_turn,1.545,Control,Pt884_C_n_725.npy
+727,884,C,2,90.0,pivot_turn,2.0,Control,Pt884_C_n_727.npy
+729,884,C,3,180.0,step_turn,1.863999,Control,Pt884_C_n_729.npy
+733,884,C,2,135.0,pivot_turn,1.091,Control,Pt884_C_n_733.npy
+734,884,C,2,180.0,pivot_turn,1.955,Control,Pt884_C_n_734.npy
+735,412,PD,1,90.0,pivot_turn,1.5,On medication,Pt412_PD_n_735.npy
+736,412,PD,1,90.0,pivot_turn,1.136,On medication,Pt412_PD_n_736.npy
+738,884,C,3,135.0,step_turn,1.864,Control,Pt884_C_n_738.npy
+743,412,PD,1,90.0,pivot_turn,1.090999,On medication,Pt412_PD_n_743.npy
+744,412,PD,3,180.0,pivot_turn,1.682,On medication,Pt412_PD_n_744.npy
+746,412,PD,1,90.0,pivot_turn,1.273,On medication,Pt412_PD_n_746.npy
+747,412,PD,2,90.0,pivot_turn,1.362999,On medication,Pt412_PD_n_747.npy
+748,412,PD,1,90.0,pivot_turn,1.091,On medication,Pt412_PD_n_748.npy
+749,412,PD,2,90.0,pivot_turn,1.091,On medication,Pt412_PD_n_749.npy
+753,412,PD,2,90.0,pivot_turn,1.364,On medication,Pt412_PD_n_753.npy
+754,412,PD,1,135.0,pivot_turn,1.637,On medication,Pt412_PD_n_754.npy
+755,412,PD,2,135.0,pivot_turn,1.228,On medication,Pt412_PD_n_755.npy
+756,412,PD,2,90.0,pivot_turn,1.227,On medication,Pt412_PD_n_756.npy
+757,412,PD,2,135.0,pivot_turn,1.317999,On medication,Pt412_PD_n_757.npy
+758,412,PD,2,90.0,pivot_turn,1.136,On medication,Pt412_PD_n_758.npy
+760,412,PD,2,135.0,pivot_turn,2.182,On medication,Pt412_PD_n_760.npy
+790,412,PD,2,135.0,pivot_turn,1.272999,On medication,Pt412_PD_n_790.npy
+801,412,PD,2,135.0,pivot_turn,1.591,On medication,Pt412_PD_n_801.npy
+802,412,PD,2,90.0,pivot_turn,1.681999,On medication,Pt412_PD_n_802.npy
+811,884,C,2,90.0,step_turn,1.363,Control,Pt884_C_n_811.npy
+816,884,C,2,90.0,pivot_turn,1.271999,Control,Pt884_C_n_816.npy
+817,884,C,2,90.0,pivot_turn,1.453999,Control,Pt884_C_n_817.npy
+818,884,C,2,135.0,pivot_turn,1.818,Control,Pt884_C_n_818.npy
+827,884,C,2,90.0,pivot_turn,1.136,Control,Pt884_C_n_827.npy
+844,412,PD,3,90.0,step_turn,1.136,On medication,Pt412_PD_n_844.npy
+846,412,PD,4,90.0,pivot_turn,2.046,On medication,Pt412_PD_n_846.npy
+847,412,PD,2,135.0,pivot_turn,1.953999,On medication,Pt412_PD_n_847.npy
+852,412,PD,3,90.0,step_turn,1.408999,On medication,Pt412_PD_n_852.npy
+854,412,PD,5,90.0,step_turn,2.226999,On medication,Pt412_PD_n_854.npy
+856,412,PD,3,90.0,step_turn,1.272999,On medication,Pt412_PD_n_856.npy
+858,412,PD,5,135.0,step_turn,2.227,On medication,Pt412_PD_n_858.npy
+861,412,PD,2,90.0,step_turn,1.136,On medication,Pt412_PD_n_861.npy
+862,884,C,3,180.0,step_turn,2.408999,Control,Pt884_C_n_862.npy
+865,412,PD,4,90.0,step_turn,1.454,On medication,Pt412_PD_n_865.npy
+866,884,C,3,180.0,pivot_turn,2.090999,Control,Pt884_C_n_866.npy
+867,884,C,2,90.0,pivot_turn,1.272999,Control,Pt884_C_n_867.npy
+869,884,C,2,135.0,step_turn,1.5,Control,Pt884_C_n_869.npy
+871,884,C,3,180.0,step_turn,2.045999,Control,Pt884_C_n_871.npy
+873,412,PD,2,90.0,pivot_turn,1.546,On medication,Pt412_PD_n_873.npy
+874,412,PD,2,90.0,step_turn,1.3,On medication,Pt412_PD_n_874.npy
+876,884,C,4,225.0,step_turn,3.089999,Control,Pt884_C_n_876.npy
+880,412,PD,1,90.0,pivot_turn,1.453999,On medication,Pt412_PD_n_880.npy
+882,412,PD,1,90.0,pivot_turn,1.091,On medication,Pt412_PD_n_882.npy
+883,884,C,3,180.0,step_turn,3.0,Control,Pt884_C_n_883.npy
+884,412,PD,4,90.0,step_turn,2.226999,On medication,Pt412_PD_n_884.npy
+885,412,PD,1,90.0,pivot_turn,1.272999,On medication,Pt412_PD_n_885.npy
+886,884,C,3,180.0,step_turn,2.182,Control,Pt884_C_n_886.npy
+889,412,PD,2,90.0,pivot_turn,1.636,On medication,Pt412_PD_n_889.npy
+890,412,PD,1,90.0,pivot_turn,1.135999,On medication,Pt412_PD_n_890.npy
+891,412,PD,2,90.0,pivot_turn,1.864,On medication,Pt412_PD_n_891.npy
+895,412,PD,1,90.0,pivot_turn,1.182,On medication,Pt412_PD_n_895.npy
+898,412,PD,1,90.0,pivot_turn,1.090999,On medication,Pt412_PD_n_898.npy
+900,412,PD,2,180.0,pivot_turn,1.180999,On medication,Pt412_PD_n_900.npy
+901,412,PD,3,135.0,pivot_turn,1.772999,On medication,Pt412_PD_n_901.npy
+902,884,C,2,90.0,pivot_turn,2.408999,Control,Pt884_C_n_902.npy
+904,412,PD,2,90.0,pivot_turn,2.090999,On medication,Pt412_PD_n_904.npy
+906,412,PD,2,90.0,step_turn,1.09,On medication,Pt412_PD_n_906.npy
+912,412,PD,2,135.0,pivot_turn,1.317999,On medication,Pt412_PD_n_912.npy
+913,884,C,3,180.0,pivot_turn,2.273,Control,Pt884_C_n_913.npy
+921,412,PD,2,90.0,pivot_turn,1.591,On medication,Pt412_PD_n_921.npy
+922,412,PD,4,135.0,pivot_turn,2.181999,On medication,Pt412_PD_n_922.npy
+925,412,PD,2,90.0,pivot_turn,1.136,On medication,Pt412_PD_n_925.npy
+932,412,PD,1,90.0,pivot_turn,1.091,On medication,Pt412_PD_n_932.npy
+934,412,PD,2,90.0,pivot_turn,1.682,On medication,Pt412_PD_n_934.npy
+935,412,PD,2,90.0,pivot_turn,1.772999,On medication,Pt412_PD_n_935.npy
+937,412,PD,2,90.0,pivot_turn,1.181999,On medication,Pt412_PD_n_937.npy
+939,412,PD,2,90.0,pivot_turn,1.227,On medication,Pt412_PD_n_939.npy
+940,412,PD,2,90.0,pivot_turn,1.728,On medication,Pt412_PD_n_940.npy
+941,412,PD,1,90.0,pivot_turn,1.228,On medication,Pt412_PD_n_941.npy
+942,412,PD,3,90.0,pivot_turn,1.908999,On medication,Pt412_PD_n_942.npy
+945,412,PD,1,90.0,pivot_turn,1.044999,On medication,Pt412_PD_n_945.npy
+947,412,PD,2,90.0,pivot_turn,1.455,On medication,Pt412_PD_n_947.npy
+949,884,C,1,90.0,pivot_turn,1.66,Control,Pt884_C_n_949.npy
+950,412,PD,2,90.0,pivot_turn,1.227,On medication,Pt412_PD_n_950.npy
+951,412,PD,3,180.0,pivot_turn,1.272999,On medication,Pt412_PD_n_951.npy
+954,884,C,3,135.0,pivot_turn,1.772999,Control,Pt884_C_n_954.npy
+955,412,PD,3,90.0,pivot_turn,2.045999,On medication,Pt412_PD_n_955.npy
+966,412,PD,3,180.0,step_turn,1.171,On medication,Pt412_PD_n_966.npy
+969,884,C,2,90.0,pivot_turn,1.152999,Control,Pt884_C_n_969.npy
+970,412,PD,2,90.0,step_turn,1.5,On medication,Pt412_PD_n_970.npy
+973,412,PD,2,90.0,step_turn,1.281,On medication,Pt412_PD_n_973.npy
+979,884,C,1,90.0,pivot_turn,1.272,Control,Pt884_C_n_979.npy
+985,412,PD,2,90.0,pivot_turn,1.062,On medication,Pt412_PD_n_985.npy
+991,412,PD,3,90.0,pivot_turn,2.219,On medication,Pt412_PD_n_991.npy
+995,412,PD,2,135.0,pivot_turn,1.687,On medication,Pt412_PD_n_995.npy
+1002,884,C,1,90.0,pivot_turn,1.091,Control,Pt884_C_n_1002.npy
+1039,884,C,1,90.0,pivot_turn,1.409,Control,Pt884_C_n_1039.npy
+1040,884,C,1,90.0,pivot_turn,2.591,Control,Pt884_C_n_1040.npy
+1043,884,C,2,135.0,pivot_turn,1.954,Control,Pt884_C_n_1043.npy
+1046,884,C,1,90.0,pivot_turn,1.682,Control,Pt884_C_n_1046.npy
+1048,412,PD,2,90.0,step_turn,1.272,Off medication,Pt412_PD_n_1048.npy
+1049,412,PD,3,90.0,step_turn,1.591,Off medication,Pt412_PD_n_1049.npy
+1051,412,PD,4,90.0,step_turn,1.772,Off medication,Pt412_PD_n_1051.npy
+1052,412,PD,4,90.0,step_turn,1.908999,Off medication,Pt412_PD_n_1052.npy
+1053,412,PD,3,90.0,step_turn,1.181999,Off medication,Pt412_PD_n_1053.npy
+1054,412,PD,3,90.0,step_turn,1.546,Off medication,Pt412_PD_n_1054.npy
+1055,412,PD,3,90.0,step_turn,1.726999,Off medication,Pt412_PD_n_1055.npy
+1056,412,PD,6,90.0,step_turn,2.909,Off medication,Pt412_PD_n_1056.npy
+1057,412,PD,3,90.0,step_turn,1.544999,Off medication,Pt412_PD_n_1057.npy
+1061,884,C,3,180.0,pivot_turn,1.362999,Control,Pt884_C_n_1061.npy
+1062,412,PD,3,90.0,step_turn,1.591,Off medication,Pt412_PD_n_1062.npy
+1063,884,C,1,180.0,pivot_turn,1.455,Control,Pt884_C_n_1063.npy
+1065,412,PD,4,135.0,step_turn,2.591,Off medication,Pt412_PD_n_1065.npy
+1066,884,C,2,180.0,pivot_turn,2.364,Control,Pt884_C_n_1066.npy
+1067,884,C,3,180.0,pivot_turn,1.954,Control,Pt884_C_n_1067.npy
+1068,884,C,3,180.0,step_turn,1.5,Control,Pt884_C_n_1068.npy
+1069,884,C,2,180.0,pivot_turn,1.909,Control,Pt884_C_n_1069.npy
+1070,884,C,2,180.0,pivot_turn,1.136,Control,Pt884_C_n_1070.npy
+1071,884,C,3,180.0,pivot_turn,1.227,Control,Pt884_C_n_1071.npy
+1072,884,C,2,180.0,pivot_turn,1.272,Control,Pt884_C_n_1072.npy
+1073,884,C,2,180.0,pivot_turn,1.228,Control,Pt884_C_n_1073.npy
+1074,884,C,1,90.0,pivot_turn,1.635999,Control,Pt884_C_n_1074.npy
+1080,884,C,1,90.0,pivot_turn,1.181999,Control,Pt884_C_n_1080.npy
+1083,884,C,1,90.0,pivot_turn,1.091,Control,Pt884_C_n_1083.npy
+1084,884,C,1,90.0,pivot_turn,1.136999,Control,Pt884_C_n_1084.npy
+1087,884,C,1,90.0,pivot_turn,1.544999,Control,Pt884_C_n_1087.npy
+1088,884,C,1,90.0,pivot_turn,1.5,Control,Pt884_C_n_1088.npy
+1089,884,C,1,90.0,pivot_turn,1.772999,Control,Pt884_C_n_1089.npy
+1090,884,C,1,90.0,pivot_turn,1.136999,Control,Pt884_C_n_1090.npy
+1091,884,C,1,90.0,pivot_turn,1.090999,Control,Pt884_C_n_1091.npy
+1093,884,C,2,90.0,pivot_turn,1.091,Control,Pt884_C_n_1093.npy
+1095,884,C,2,180.0,pivot_turn,1.227,Control,Pt884_C_n_1095.npy
+1097,884,C,2,90.0,pivot_turn,1.772999,Control,Pt884_C_n_1097.npy
+1098,884,C,1,90.0,pivot_turn,1.590999,Control,Pt884_C_n_1098.npy
+1099,884,C,1,90.0,pivot_turn,1.272999,Control,Pt884_C_n_1099.npy
+1101,412,PD,10,180.0,step_turn,5.862999,Off medication,Pt412_PD_n_1101.npy
+1102,884,C,1,90.0,pivot_turn,2.0,Control,Pt884_C_n_1102.npy
+1104,884,C,2,135.0,pivot_turn,2.136999,Control,Pt884_C_n_1104.npy
+1106,884,C,2,90.0,pivot_turn,1.5,Control,Pt884_C_n_1106.npy
+1108,412,PD,16,180.0,step_turn,9.364,Off medication,Pt412_PD_n_1108.npy
+1109,412,PD,18,180.0,step_turn,8.5,Off medication,Pt412_PD_n_1109.npy
+1110,412,PD,13,180.0,step_turn,6.455,Off medication,Pt412_PD_n_1110.npy
+1112,884,C,1,90.0,pivot_turn,1.090999,Control,Pt884_C_n_1112.npy
+1114,412,PD,8,180.0,step_turn,5.227,Off medication,Pt412_PD_n_1114.npy
+1115,412,PD,9,180.0,step_turn,6.272999,Off medication,Pt412_PD_n_1115.npy
+1123,412,PD,3,90.0,step_turn,1.953999,On medication,Pt412_PD_n_1123.npy
+1124,412,PD,2,180.0,pivot_turn,1.364,On medication,Pt412_PD_n_1124.npy
+1128,412,PD,3,180.0,step_turn,1.681999,On medication,Pt412_PD_n_1128.npy
+1130,412,PD,3,180.0,pivot_turn,1.227,On medication,Pt412_PD_n_1130.npy
+1132,412,PD,2,180.0,pivot_turn,1.818,On medication,Pt412_PD_n_1132.npy
+1140,631,PD,4,180.0,pivot_turn,2.278999,On medication,Pt631_PD_n_1140.npy
+1142,631,PD,2,135.0,pivot_turn,1.898999,On medication,Pt631_PD_n_1142.npy
+1143,631,PD,2,180.0,pivot_turn,1.927,On medication,Pt631_PD_n_1143.npy
+1144,631,PD,2,90.0,pivot_turn,1.744,On medication,Pt631_PD_n_1144.npy
+1145,631,PD,3,180.0,pivot_turn,2.287,On medication,Pt631_PD_n_1145.npy
+1149,631,PD,2,90.0,pivot_turn,1.447,On medication,Pt631_PD_n_1149.npy
+1150,325,C,3,180.0,pivot_turn,1.845999,Control,Pt325_C_n_1150.npy
+1151,325,C,4,180.0,pivot_turn,1.558,Control,Pt325_C_n_1151.npy
+1152,325,C,3,180.0,pivot_turn,1.797999,Control,Pt325_C_n_1152.npy
+1153,325,C,3,180.0,pivot_turn,1.701999,Control,Pt325_C_n_1153.npy
+1154,631,PD,3,90.0,pivot_turn,2.695,On medication,Pt631_PD_n_1154.npy
+1155,325,C,3,180.0,pivot_turn,2.261999,Control,Pt325_C_n_1155.npy
+1156,325,C,3,180.0,pivot_turn,2.667,Control,Pt325_C_n_1156.npy
+1158,325,C,2,180.0,pivot_turn,1.421999,Control,Pt325_C_n_1158.npy
+1159,325,C,3,180.0,pivot_turn,1.919,Control,Pt325_C_n_1159.npy
+1160,325,C,3,180.0,pivot_turn,1.989999,Control,Pt325_C_n_1160.npy
+1163,325,C,2,90.0,pivot_turn,1.884999,Control,Pt325_C_n_1163.npy
+1165,325,C,2,135.0,pivot_turn,1.836999,Control,Pt325_C_n_1165.npy
+1167,325,C,3,135.0,pivot_turn,1.410999,Control,Pt325_C_n_1167.npy
+1168,631,PD,5,90.0,step_turn,4.236999,On medication,Pt631_PD_n_1168.npy
+1169,631,PD,3,180.0,pivot_turn,1.348999,On medication,Pt631_PD_n_1169.npy
+1170,631,PD,4,180.0,pivot_turn,2.261999,On medication,Pt631_PD_n_1170.npy
+1171,325,C,3,180.0,pivot_turn,1.999,Control,Pt325_C_n_1171.npy
+1173,631,PD,2,180.0,pivot_turn,1.089,On medication,Pt631_PD_n_1173.npy
+1174,631,PD,4,180.0,pivot_turn,2.094999,On medication,Pt631_PD_n_1174.npy
+1175,631,PD,3,180.0,pivot_turn,1.551,On medication,Pt631_PD_n_1175.npy
+1176,631,PD,4,180.0,pivot_turn,2.451999,On medication,Pt631_PD_n_1176.npy
+1180,631,PD,3,180.0,pivot_turn,1.476999,On medication,Pt631_PD_n_1180.npy
+1181,631,PD,2,180.0,pivot_turn,1.076,On medication,Pt631_PD_n_1181.npy
+1182,631,PD,3,180.0,pivot_turn,1.676999,On medication,Pt631_PD_n_1182.npy
+1183,631,PD,2,180.0,pivot_turn,1.420999,On medication,Pt631_PD_n_1183.npy
+1185,631,PD,5,135.0,step_turn,2.855,On medication,Pt631_PD_n_1185.npy
+1186,325,C,2,180.0,pivot_turn,1.554,Control,Pt325_C_n_1186.npy
+1190,631,PD,2,180.0,pivot_turn,1.983,On medication,Pt631_PD_n_1190.npy
+1194,631,PD,2,180.0,pivot_turn,1.464999,On medication,Pt631_PD_n_1194.npy
+1200,631,PD,2,135.0,pivot_turn,1.296999,On medication,Pt631_PD_n_1200.npy
+1201,631,PD,2,180.0,pivot_turn,1.552,On medication,Pt631_PD_n_1201.npy
+1202,631,PD,2,180.0,pivot_turn,1.739,On medication,Pt631_PD_n_1202.npy
+1203,631,PD,3,135.0,pivot_turn,1.607,On medication,Pt631_PD_n_1203.npy
+1206,631,PD,2,90.0,pivot_turn,1.368,On medication,Pt631_PD_n_1206.npy
+1207,631,PD,2,180.0,pivot_turn,1.86,On medication,Pt631_PD_n_1207.npy
+1208,631,PD,2,180.0,pivot_turn,1.652,On medication,Pt631_PD_n_1208.npy
+1209,631,PD,2,135.0,pivot_turn,2.008,On medication,Pt631_PD_n_1209.npy
+1210,631,PD,2,135.0,pivot_turn,1.644999,On medication,Pt631_PD_n_1210.npy
+1211,631,PD,2,135.0,pivot_turn,2.068,On medication,Pt631_PD_n_1211.npy
+1212,631,PD,1,90.0,pivot_turn,1.503,On medication,Pt631_PD_n_1212.npy
+1213,631,PD,2,90.0,pivot_turn,1.744999,On medication,Pt631_PD_n_1213.npy
+1214,631,PD,2,180.0,pivot_turn,1.305,On medication,Pt631_PD_n_1214.npy
+1215,631,PD,2,180.0,pivot_turn,1.483,On medication,Pt631_PD_n_1215.npy
+1216,631,PD,2,135.0,pivot_turn,1.241999,On medication,Pt631_PD_n_1216.npy
+1222,631,PD,2,90.0,pivot_turn,1.776999,On medication,Pt631_PD_n_1222.npy
+1223,631,PD,3,180.0,pivot_turn,2.093999,On medication,Pt631_PD_n_1223.npy
+1225,631,PD,2,90.0,pivot_turn,2.324999,On medication,Pt631_PD_n_1225.npy
+1226,631,PD,3,135.0,pivot_turn,2.259,On medication,Pt631_PD_n_1226.npy
+1228,631,PD,3,180.0,pivot_turn,1.551,On medication,Pt631_PD_n_1228.npy
+1231,631,PD,2,90.0,pivot_turn,1.544999,On medication,Pt631_PD_n_1231.npy
+1234,631,PD,2,135.0,pivot_turn,3.943,On medication,Pt631_PD_n_1234.npy
+1235,631,PD,2,180.0,pivot_turn,1.557999,On medication,Pt631_PD_n_1235.npy
+1237,325,C,3,90.0,pivot_turn,1.749,Control,Pt325_C_n_1237.npy
+1246,325,C,2,90.0,pivot_turn,1.269,Control,Pt325_C_n_1246.npy
+1251,325,C,3,90.0,pivot_turn,1.755,Control,Pt325_C_n_1251.npy
+1252,325,C,1,90.0,pivot_turn,1.052,Control,Pt325_C_n_1252.npy
+1254,325,C,2,135.0,pivot_turn,1.628,Control,Pt325_C_n_1254.npy
+1256,325,C,2,180.0,pivot_turn,1.484,Control,Pt325_C_n_1256.npy
+1257,631,PD,2,90.0,pivot_turn,2.404999,On medication,Pt631_PD_n_1257.npy
+1258,631,PD,3,135.0,pivot_turn,2.06,On medication,Pt631_PD_n_1258.npy
+1259,631,PD,3,135.0,pivot_turn,2.121999,On medication,Pt631_PD_n_1259.npy
+1261,631,PD,3,90.0,pivot_turn,2.025999,On medication,Pt631_PD_n_1261.npy
+1262,631,PD,2,90.0,pivot_turn,1.279,On medication,Pt631_PD_n_1262.npy
+1263,631,PD,3,90.0,pivot_turn,1.337,On medication,Pt631_PD_n_1263.npy
+1264,631,PD,2,90.0,pivot_turn,2.579999,On medication,Pt631_PD_n_1264.npy
+1265,631,PD,2,90.0,pivot_turn,1.900999,On medication,Pt631_PD_n_1265.npy
+1266,631,PD,2,135.0,pivot_turn,2.075,On medication,Pt631_PD_n_1266.npy
+1267,631,PD,2,180.0,pivot_turn,1.554,On medication,Pt631_PD_n_1267.npy
+1278,631,PD,3,90.0,step_turn,1.968,Off medication,Pt631_PD_n_1278.npy
+1284,325,C,3,225.0,pivot_turn,2.311,Control,Pt325_C_n_1284.npy
+1291,631,PD,3,90.0,pivot_turn,1.862,Off medication,Pt631_PD_n_1291.npy
+1292,631,PD,2,90.0,pivot_turn,2.111,Off medication,Pt631_PD_n_1292.npy
+1293,631,PD,2,90.0,pivot_turn,2.246,Off medication,Pt631_PD_n_1293.npy
+1294,325,C,2,180.0,pivot_turn,1.52,Control,Pt325_C_n_1294.npy
+1295,325,C,3,180.0,pivot_turn,1.424,Control,Pt325_C_n_1295.npy
+1296,325,C,3,180.0,pivot_turn,2.295,Control,Pt325_C_n_1296.npy
+1298,325,C,3,180.0,pivot_turn,1.923999,Control,Pt325_C_n_1298.npy
+1300,325,C,3,180.0,pivot_turn,1.72,Control,Pt325_C_n_1300.npy
+1301,631,PD,2,90.0,pivot_turn,1.710999,Off medication,Pt631_PD_n_1301.npy
+1302,631,PD,2,90.0,pivot_turn,1.527,Off medication,Pt631_PD_n_1302.npy
+1303,631,PD,2,90.0,pivot_turn,1.045,Off medication,Pt631_PD_n_1303.npy
+1304,631,PD,3,135.0,pivot_turn,2.095,Off medication,Pt631_PD_n_1304.npy
+1305,631,PD,2,90.0,pivot_turn,1.229999,Off medication,Pt631_PD_n_1305.npy
+1306,631,PD,2,90.0,pivot_turn,1.145,On medication,Pt631_PD_n_1306.npy
+1316,631,PD,2,90.0,pivot_turn,2.383,On medication,Pt631_PD_n_1316.npy
+1336,467,PD,2,90.0,pivot_turn,2.0,On medication,Pt467_PD_n_1336.npy
+1338,634,C,3,180.0,pivot_turn,1.181999,Control,Pt634_C_n_1338.npy
+1339,467,PD,2,135.0,pivot_turn,1.636,On medication,Pt467_PD_n_1339.npy
+1340,467,PD,2,90.0,pivot_turn,2.453999,On medication,Pt467_PD_n_1340.npy
+1341,467,PD,2,135.0,pivot_turn,2.817999,On medication,Pt467_PD_n_1341.npy
+1342,467,PD,2,90.0,pivot_turn,1.818,On medication,Pt467_PD_n_1342.npy
+1343,467,PD,2,90.0,pivot_turn,2.182,On medication,Pt467_PD_n_1343.npy
+1344,467,PD,3,135.0,pivot_turn,1.817999,On medication,Pt467_PD_n_1344.npy
+1345,467,PD,2,90.0,pivot_turn,1.546,On medication,Pt467_PD_n_1345.npy
+1346,467,PD,2,90.0,pivot_turn,1.455,On medication,Pt467_PD_n_1346.npy
+1347,467,PD,2,90.0,pivot_turn,1.545999,On medication,Pt467_PD_n_1347.npy
+1348,467,PD,2,90.0,pivot_turn,1.637,On medication,Pt467_PD_n_1348.npy
+1349,467,PD,2,90.0,pivot_turn,2.544999,On medication,Pt467_PD_n_1349.npy
+1350,467,PD,2,90.0,pivot_turn,1.635999,On medication,Pt467_PD_n_1350.npy
+1351,467,PD,2,180.0,pivot_turn,2.0,On medication,Pt467_PD_n_1351.npy
+1352,634,C,2,180.0,pivot_turn,1.545999,Control,Pt634_C_n_1352.npy
+1354,634,C,3,180.0,pivot_turn,1.455,Control,Pt634_C_n_1354.npy
+1356,634,C,3,180.0,pivot_turn,1.908999,Control,Pt634_C_n_1356.npy
+1357,634,C,3,180.0,pivot_turn,1.544999,Control,Pt634_C_n_1357.npy
+1358,467,PD,2,90.0,pivot_turn,2.181999,On medication,Pt467_PD_n_1358.npy
+1359,467,PD,3,90.0,pivot_turn,2.728,On medication,Pt467_PD_n_1359.npy
+1360,634,C,2,180.0,pivot_turn,1.090999,Control,Pt634_C_n_1360.npy
+1361,634,C,3,180.0,pivot_turn,1.363999,Control,Pt634_C_n_1361.npy
+1362,634,C,3,180.0,pivot_turn,1.761999,Control,Pt634_C_n_1362.npy
+1363,634,C,2,90.0,pivot_turn,1.363,Control,Pt634_C_n_1363.npy
+1364,467,PD,3,180.0,pivot_turn,1.952,On medication,Pt467_PD_n_1364.npy
+1366,634,C,2,90.0,pivot_turn,1.323,Control,Pt634_C_n_1366.npy
+1367,634,C,2,90.0,pivot_turn,1.484,Control,Pt634_C_n_1367.npy
+1368,634,C,2,90.0,pivot_turn,1.128999,Control,Pt634_C_n_1368.npy
+1370,634,C,2,90.0,pivot_turn,1.128999,Control,Pt634_C_n_1370.npy
+1371,634,C,2,90.0,pivot_turn,1.096999,Control,Pt634_C_n_1371.npy
+1372,634,C,1,90.0,pivot_turn,1.419,Control,Pt634_C_n_1372.npy
+1373,634,C,1,90.0,pivot_turn,1.192999,Control,Pt634_C_n_1373.npy
+1374,634,C,2,90.0,pivot_turn,1.677,Control,Pt634_C_n_1374.npy
+1375,467,PD,4,180.0,pivot_turn,1.952999,On medication,Pt467_PD_n_1375.npy
+1376,467,PD,4,180.0,pivot_turn,2.522999,On medication,Pt467_PD_n_1376.npy
+1377,634,C,1,90.0,pivot_turn,1.160999,Control,Pt634_C_n_1377.npy
+1378,467,PD,4,180.0,pivot_turn,2.285999,On medication,Pt467_PD_n_1378.npy
+1380,467,PD,4,180.0,pivot_turn,2.047,On medication,Pt467_PD_n_1380.npy
+1381,634,C,2,180.0,pivot_turn,1.226,Control,Pt634_C_n_1381.npy
+1382,634,C,1,90.0,pivot_turn,1.452,Control,Pt634_C_n_1382.npy
+1383,634,C,3,180.0,pivot_turn,1.29,Control,Pt634_C_n_1383.npy
+1384,634,C,3,135.0,pivot_turn,1.708999,Control,Pt634_C_n_1384.npy
+1385,634,C,1,90.0,pivot_turn,1.29,Control,Pt634_C_n_1385.npy
+1387,634,C,2,90.0,pivot_turn,1.419,Control,Pt634_C_n_1387.npy
+1388,634,C,3,180.0,pivot_turn,1.644999,Control,Pt634_C_n_1388.npy
+1389,467,PD,4,180.0,pivot_turn,2.096,On medication,Pt467_PD_n_1389.npy
+1390,467,PD,4,180.0,pivot_turn,2.142999,On medication,Pt467_PD_n_1390.npy
+1391,467,PD,4,180.0,pivot_turn,2.0,On medication,Pt467_PD_n_1391.npy
+1392,467,PD,3,180.0,pivot_turn,1.570999,On medication,Pt467_PD_n_1392.npy
+1393,467,PD,4,180.0,pivot_turn,2.064,On medication,Pt467_PD_n_1393.npy
+1394,467,PD,3,180.0,pivot_turn,1.871,On medication,Pt467_PD_n_1394.npy
+1395,467,PD,2,90.0,step_turn,1.322999,On medication,Pt467_PD_n_1395.npy
+1396,467,PD,2,90.0,pivot_turn,1.452,On medication,Pt467_PD_n_1396.npy
+1397,634,C,3,180.0,pivot_turn,1.548,Control,Pt634_C_n_1397.npy
+1407,634,C,2,135.0,pivot_turn,1.323,Control,Pt634_C_n_1407.npy
+1408,634,C,1,90.0,pivot_turn,1.709999,Control,Pt634_C_n_1408.npy
+1409,634,C,1,90.0,pivot_turn,1.387,Control,Pt634_C_n_1409.npy
+1410,634,C,1,90.0,pivot_turn,1.160999,Control,Pt634_C_n_1410.npy
+1412,634,C,4,180.0,pivot_turn,2.064999,Control,Pt634_C_n_1412.npy
+1413,634,C,2,180.0,pivot_turn,1.355,Control,Pt634_C_n_1413.npy
+1415,634,C,2,180.0,pivot_turn,1.193999,Control,Pt634_C_n_1415.npy
+1416,634,C,2,90.0,pivot_turn,3.337999,Control,Pt634_C_n_1416.npy
+1418,634,C,1,90.0,pivot_turn,1.71,Control,Pt634_C_n_1418.npy
+1424,634,C,1,90.0,pivot_turn,1.226,Control,Pt634_C_n_1424.npy
+1425,634,C,2,90.0,pivot_turn,1.644999,Control,Pt634_C_n_1425.npy
+1428,634,C,1,90.0,pivot_turn,1.452,Control,Pt634_C_n_1428.npy
+1430,634,C,2,180.0,pivot_turn,1.452,Control,Pt634_C_n_1430.npy
+1433,634,C,3,135.0,pivot_turn,2.355,Control,Pt634_C_n_1433.npy
+1440,634,C,1,90.0,pivot_turn,1.71,Control,Pt634_C_n_1440.npy
+1442,634,C,2,180.0,pivot_turn,1.450999,Control,Pt634_C_n_1442.npy
+1447,467,PD,3,180.0,pivot_turn,2.064,On medication,Pt467_PD_n_1447.npy
+1461,634,C,2,90.0,pivot_turn,1.193,Control,Pt634_C_n_1461.npy
+1462,467,PD,4,180.0,pivot_turn,2.0,On medication,Pt467_PD_n_1462.npy
+1463,467,PD,1,90.0,pivot_turn,1.224999,On medication,Pt467_PD_n_1463.npy
+1464,634,C,3,90.0,pivot_turn,1.807,Control,Pt634_C_n_1464.npy
+1465,634,C,1,90.0,pivot_turn,1.516,Control,Pt634_C_n_1465.npy
+1467,634,C,3,180.0,pivot_turn,2.032999,Control,Pt634_C_n_1467.npy
+1468,634,C,2,180.0,pivot_turn,1.772999,Control,Pt634_C_n_1468.npy
+1470,634,C,2,135.0,pivot_turn,1.161,Control,Pt634_C_n_1470.npy
+1471,634,C,3,90.0,pivot_turn,2.032,Control,Pt634_C_n_1471.npy
+1473,634,C,2,90.0,pivot_turn,1.839,Control,Pt634_C_n_1473.npy
+1476,634,C,3,90.0,pivot_turn,1.516,Control,Pt634_C_n_1476.npy
+1477,634,C,3,180.0,pivot_turn,2.161999,Control,Pt634_C_n_1477.npy
+1480,634,C,1,180.0,pivot_turn,1.548,Control,Pt634_C_n_1480.npy
+1487,634,C,2,90.0,step_turn,1.419,Control,Pt634_C_n_1487.npy
+1488,634,C,2,90.0,step_turn,1.839,Control,Pt634_C_n_1488.npy
+1489,634,C,3,90.0,pivot_turn,2.048,Control,Pt634_C_n_1489.npy
+1495,634,C,2,180.0,pivot_turn,1.524,Control,Pt634_C_n_1495.npy
+1498,634,C,3,180.0,pivot_turn,3.380999,Control,Pt634_C_n_1498.npy
+1499,634,C,2,90.0,pivot_turn,3.000999,Control,Pt634_C_n_1499.npy
+1500,634,C,2,180.0,pivot_turn,1.713999,Control,Pt634_C_n_1500.npy
+1502,634,C,2,90.0,pivot_turn,2.047,Control,Pt634_C_n_1502.npy
+1504,634,C,4,180.0,pivot_turn,2.665999,Control,Pt634_C_n_1504.npy
+1506,634,C,2,90.0,pivot_turn,1.762,Control,Pt634_C_n_1506.npy
+1507,634,C,1,90.0,pivot_turn,1.238,Control,Pt634_C_n_1507.npy
+1508,634,C,2,90.0,pivot_turn,1.333,Control,Pt634_C_n_1508.npy
+1509,634,C,1,90.0,pivot_turn,1.524,Control,Pt634_C_n_1509.npy
+1511,634,C,2,90.0,pivot_turn,2.928,Control,Pt634_C_n_1511.npy
+1512,634,C,1,90.0,pivot_turn,2.047999,Control,Pt634_C_n_1512.npy
+1513,634,C,2,135.0,pivot_turn,1.380999,Control,Pt634_C_n_1513.npy
+1529,467,PD,2,90.0,pivot_turn,2.286,On medication,Pt467_PD_n_1529.npy
+1532,634,C,3,180.0,pivot_turn,2.048,Control,Pt634_C_n_1532.npy
+1539,634,C,2,180.0,pivot_turn,1.644999,Control,Pt634_C_n_1539.npy
+1540,634,C,2,90.0,pivot_turn,1.484,Control,Pt634_C_n_1540.npy
+1541,634,C,4,180.0,pivot_turn,1.515999,Control,Pt634_C_n_1541.npy
+1542,634,C,2,135.0,pivot_turn,1.677,Control,Pt634_C_n_1542.npy
+1543,634,C,1,135.0,pivot_turn,1.161,Control,Pt634_C_n_1543.npy
+1545,634,C,3,180.0,pivot_turn,2.323,Control,Pt634_C_n_1545.npy
+1546,634,C,1,90.0,pivot_turn,1.355,Control,Pt634_C_n_1546.npy
+1547,634,C,1,90.0,pivot_turn,1.225,Control,Pt634_C_n_1547.npy
+1551,634,C,1,90.0,pivot_turn,1.128999,Control,Pt634_C_n_1551.npy
+1552,634,C,2,180.0,pivot_turn,1.387,Control,Pt634_C_n_1552.npy
+1553,634,C,4,180.0,pivot_turn,1.936,Control,Pt634_C_n_1553.npy
+1555,634,C,1,90.0,pivot_turn,1.225999,Control,Pt634_C_n_1555.npy
+1556,634,C,2,180.0,pivot_turn,1.258,Control,Pt634_C_n_1556.npy
+1558,634,C,1,90.0,pivot_turn,1.322,Control,Pt634_C_n_1558.npy
+1561,634,C,1,180.0,pivot_turn,1.096999,Control,Pt634_C_n_1561.npy
+1564,634,C,1,90.0,pivot_turn,1.547999,Control,Pt634_C_n_1564.npy
+1566,634,C,2,90.0,pivot_turn,1.162,Control,Pt634_C_n_1566.npy
+1567,634,C,1,90.0,pivot_turn,1.095999,Control,Pt634_C_n_1567.npy
+1569,634,C,2,180.0,pivot_turn,1.548,Control,Pt634_C_n_1569.npy
+1571,634,C,3,180.0,pivot_turn,2.258,Control,Pt634_C_n_1571.npy
+1573,634,C,1,180.0,pivot_turn,1.193999,Control,Pt634_C_n_1573.npy
+1575,634,C,1,90.0,pivot_turn,1.644999,Control,Pt634_C_n_1575.npy
+1577,634,C,1,90.0,pivot_turn,1.160999,Control,Pt634_C_n_1577.npy
+1578,634,C,2,90.0,pivot_turn,1.419,Control,Pt634_C_n_1578.npy
+1579,634,C,1,180.0,pivot_turn,1.291,Control,Pt634_C_n_1579.npy
+1580,634,C,2,90.0,pivot_turn,1.741999,Control,Pt634_C_n_1580.npy
+1581,634,C,1,90.0,pivot_turn,1.291,Control,Pt634_C_n_1581.npy
+1588,467,PD,2,90.0,pivot_turn,1.226,On medication,Pt467_PD_n_1588.npy
+1597,634,C,1,90.0,pivot_turn,1.124,Control,Pt634_C_n_1597.npy
+1598,634,C,1,90.0,pivot_turn,1.057999,Control,Pt634_C_n_1598.npy
+1601,634,C,2,180.0,pivot_turn,1.214999,Control,Pt634_C_n_1601.npy
+1604,634,C,2,90.0,pivot_turn,1.116,Control,Pt634_C_n_1604.npy
+1605,634,C,1,90.0,pivot_turn,1.124,Control,Pt634_C_n_1605.npy
+1607,634,C,1,90.0,pivot_turn,1.197999,Control,Pt634_C_n_1607.npy
+1608,634,C,2,90.0,pivot_turn,1.222999,Control,Pt634_C_n_1608.npy
+1612,634,C,1,90.0,pivot_turn,1.447,Control,Pt634_C_n_1612.npy
+1613,634,C,2,180.0,pivot_turn,1.298,Control,Pt634_C_n_1613.npy
+1617,634,C,1,90.0,pivot_turn,1.164999,Control,Pt634_C_n_1617.npy
+1620,634,C,1,135.0,pivot_turn,1.107,Control,Pt634_C_n_1620.npy
+1622,634,C,1,90.0,pivot_turn,1.124,Control,Pt634_C_n_1622.npy
+1623,634,C,1,90.0,pivot_turn,1.124,Control,Pt634_C_n_1623.npy
+1624,634,C,1,90.0,pivot_turn,1.156999,Control,Pt634_C_n_1624.npy
+1630,634,C,2,90.0,pivot_turn,1.207,Control,Pt634_C_n_1630.npy
+1631,634,C,2,90.0,pivot_turn,1.19,Control,Pt634_C_n_1631.npy
+1632,634,C,1,180.0,pivot_turn,1.52,Control,Pt634_C_n_1632.npy
+1633,634,C,2,90.0,pivot_turn,1.297999,Control,Pt634_C_n_1633.npy
+1634,634,C,2,90.0,pivot_turn,1.602999,Control,Pt634_C_n_1634.npy
+1635,634,C,2,135.0,pivot_turn,1.562,Control,Pt634_C_n_1635.npy
+1636,634,C,1,90.0,pivot_turn,1.215,Control,Pt634_C_n_1636.npy
+1637,634,C,1,90.0,pivot_turn,1.157,Control,Pt634_C_n_1637.npy
+1638,467,PD,4,180.0,step_turn,1.804999,On medication,Pt467_PD_n_1638.npy
+1639,467,PD,2,90.0,pivot_turn,1.536,On medication,Pt467_PD_n_1639.npy
+1640,634,C,2,90.0,pivot_turn,1.148999,Control,Pt634_C_n_1640.npy
+1666,467,PD,3,90.0,step_turn,2.476999,Off medication,Pt467_PD_n_1666.npy
+1667,467,PD,4,180.0,step_turn,1.667,Off medication,Pt467_PD_n_1667.npy
+1668,634,C,2,90.0,pivot_turn,1.761999,Control,Pt634_C_n_1668.npy
+1670,634,C,2,90.0,pivot_turn,1.952999,Control,Pt634_C_n_1670.npy
+1674,634,C,1,90.0,pivot_turn,1.239,Control,Pt634_C_n_1674.npy
+1675,634,C,2,90.0,pivot_turn,1.428,Control,Pt634_C_n_1675.npy
+1676,467,PD,4,180.0,pivot_turn,2.0,Off medication,Pt467_PD_n_1676.npy
+1677,467,PD,4,180.0,pivot_turn,2.618999,Off medication,Pt467_PD_n_1677.npy
+1679,634,C,2,90.0,pivot_turn,1.237999,Control,Pt634_C_n_1679.npy
+1680,467,PD,5,180.0,pivot_turn,2.429,Off medication,Pt467_PD_n_1680.npy
+1681,634,C,2,90.0,pivot_turn,1.715,Control,Pt634_C_n_1681.npy
+1682,467,PD,6,180.0,pivot_turn,3.809999,Off medication,Pt467_PD_n_1682.npy
+1684,634,C,2,90.0,step_turn,1.428999,Control,Pt634_C_n_1684.npy
+1685,634,C,2,180.0,pivot_turn,1.427999,Control,Pt634_C_n_1685.npy
+1686,467,PD,4,180.0,pivot_turn,1.714,Off medication,Pt467_PD_n_1686.npy
+1687,634,C,2,180.0,pivot_turn,1.381,Control,Pt634_C_n_1687.npy
+1688,467,PD,5,180.0,pivot_turn,2.665999,Off medication,Pt467_PD_n_1688.npy
+1689,634,C,1,90.0,pivot_turn,1.856999,Control,Pt634_C_n_1689.npy
+1691,467,PD,3,180.0,step_turn,1.666999,Off medication,Pt467_PD_n_1691.npy
+1692,467,PD,2,180.0,pivot_turn,1.761999,Off medication,Pt467_PD_n_1692.npy
+1693,467,PD,4,180.0,pivot_turn,1.952999,Off medication,Pt467_PD_n_1693.npy
+1694,467,PD,2,180.0,pivot_turn,1.523,Off medication,Pt467_PD_n_1694.npy
+1696,467,PD,2,90.0,step_turn,2.0,Off medication,Pt467_PD_n_1696.npy
+1697,467,PD,1,90.0,pivot_turn,1.095,Off medication,Pt467_PD_n_1697.npy
+1698,467,PD,2,90.0,pivot_turn,1.761999,Off medication,Pt467_PD_n_1698.npy
+1699,467,PD,2,90.0,pivot_turn,1.286,Off medication,Pt467_PD_n_1699.npy
+1700,467,PD,3,90.0,pivot_turn,2.286,Off medication,Pt467_PD_n_1700.npy
+1701,467,PD,2,90.0,pivot_turn,1.760999,Off medication,Pt467_PD_n_1701.npy
+1702,634,C,2,180.0,pivot_turn,1.428999,Control,Pt634_C_n_1702.npy
+1703,467,PD,3,90.0,pivot_turn,1.951999,Off medication,Pt467_PD_n_1703.npy
+1704,634,C,3,180.0,pivot_turn,1.713999,Control,Pt634_C_n_1704.npy
+1705,634,C,2,180.0,pivot_turn,1.428999,Control,Pt634_C_n_1705.npy
+1706,634,C,2,180.0,pivot_turn,1.905,Control,Pt634_C_n_1706.npy
+1707,467,PD,3,90.0,pivot_turn,2.476,Off medication,Pt467_PD_n_1707.npy
+1708,467,PD,1,90.0,pivot_turn,1.237999,Off medication,Pt467_PD_n_1708.npy
+1710,634,C,3,180.0,pivot_turn,1.476,Control,Pt634_C_n_1710.npy
+1711,467,PD,2,90.0,pivot_turn,1.332999,Off medication,Pt467_PD_n_1711.npy
+1713,467,PD,2,90.0,pivot_turn,1.333,Off medication,Pt467_PD_n_1713.npy
+1714,634,C,2,180.0,pivot_turn,1.143,Control,Pt634_C_n_1714.npy
+1715,467,PD,2,90.0,pivot_turn,1.667,Off medication,Pt467_PD_n_1715.npy
+1717,467,PD,3,90.0,pivot_turn,2.714,Off medication,Pt467_PD_n_1717.npy
+1718,467,PD,2,90.0,pivot_turn,1.713999,Off medication,Pt467_PD_n_1718.npy
+1721,467,PD,3,90.0,pivot_turn,1.808999,Off medication,Pt467_PD_n_1721.npy
+1722,467,PD,3,135.0,pivot_turn,1.904999,Off medication,Pt467_PD_n_1722.npy
+1723,467,PD,3,180.0,pivot_turn,2.239,Off medication,Pt467_PD_n_1723.npy
+1724,634,C,4,180.0,pivot_turn,1.476,Control,Pt634_C_n_1724.npy
+1725,467,PD,2,180.0,pivot_turn,2.286,Off medication,Pt467_PD_n_1725.npy
+1726,467,PD,3,180.0,pivot_turn,2.095,Off medication,Pt467_PD_n_1726.npy
+1727,467,PD,2,90.0,pivot_turn,1.952,Off medication,Pt467_PD_n_1727.npy
+1743,467,PD,2,135.0,pivot_turn,2.046999,Off medication,Pt467_PD_n_1743.npy
+1748,467,PD,4,180.0,step_turn,2.713999,On medication,Pt467_PD_n_1748.npy
+1749,467,PD,4,180.0,step_turn,1.571,On medication,Pt467_PD_n_1749.npy
+1750,467,PD,4,180.0,step_turn,2.191,On medication,Pt467_PD_n_1750.npy
+1751,467,PD,4,180.0,step_turn,1.571,On medication,Pt467_PD_n_1751.npy
+1752,467,PD,5,180.0,step_turn,3.095,On medication,Pt467_PD_n_1752.npy
+1753,467,PD,3,180.0,step_turn,1.572,On medication,Pt467_PD_n_1753.npy
+1754,467,PD,3,180.0,step_turn,1.905,On medication,Pt467_PD_n_1754.npy
+1755,467,PD,3,180.0,step_turn,1.428999,On medication,Pt467_PD_n_1755.npy
+1756,467,PD,3,180.0,step_turn,1.904999,On medication,Pt467_PD_n_1756.npy
+1758,467,PD,2,90.0,pivot_turn,1.952,On medication,Pt467_PD_n_1758.npy
+1759,467,PD,1,90.0,pivot_turn,1.714,On medication,Pt467_PD_n_1759.npy
+1760,467,PD,2,90.0,pivot_turn,1.714,On medication,Pt467_PD_n_1760.npy
+1761,467,PD,1,90.0,pivot_turn,1.428,On medication,Pt467_PD_n_1761.npy
+1762,467,PD,1,90.0,pivot_turn,2.428,On medication,Pt467_PD_n_1762.npy
+1766,467,PD,2,90.0,step_turn,1.856999,On medication,Pt467_PD_n_1766.npy
+1767,467,PD,2,90.0,pivot_turn,1.189999,On medication,Pt467_PD_n_1767.npy
+1772,467,PD,2,135.0,pivot_turn,1.476,On medication,Pt467_PD_n_1772.npy
+1773,467,PD,3,90.0,step_turn,2.189999,On medication,Pt467_PD_n_1773.npy
+1777,400,C,3,90.0,pivot_turn,2.286,Control,Pt400_C_n_1777.npy
+1779,400,C,1,90.0,pivot_turn,1.334,Control,Pt400_C_n_1779.npy
+1783,400,C,2,90.0,pivot_turn,1.904999,Control,Pt400_C_n_1783.npy
+1784,400,C,1,90.0,pivot_turn,1.857999,Control,Pt400_C_n_1784.npy
+1785,400,C,1,90.0,pivot_turn,1.094999,Control,Pt400_C_n_1785.npy
+1787,400,C,2,90.0,pivot_turn,1.380999,Control,Pt400_C_n_1787.npy
+1789,400,C,2,90.0,pivot_turn,1.237999,Control,Pt400_C_n_1789.npy
+1790,400,C,1,90.0,pivot_turn,1.189999,Control,Pt400_C_n_1790.npy
+1792,324,PD,4,180.0,step_turn,2.189999,On medication,Pt324_PD_n_1792.npy
+1793,324,PD,4,180.0,pivot_turn,1.572,On medication,Pt324_PD_n_1793.npy
+1794,324,PD,3,180.0,pivot_turn,1.285,On medication,Pt324_PD_n_1794.npy
+1795,324,PD,4,180.0,pivot_turn,1.714,On medication,Pt324_PD_n_1795.npy
+1796,400,C,1,90.0,pivot_turn,1.571,Control,Pt400_C_n_1796.npy
+1797,400,C,1,90.0,pivot_turn,1.380999,Control,Pt400_C_n_1797.npy
+1798,324,PD,4,180.0,pivot_turn,2.475999,On medication,Pt324_PD_n_1798.npy
+1799,324,PD,4,180.0,pivot_turn,2.238,On medication,Pt324_PD_n_1799.npy
+1800,324,PD,3,180.0,pivot_turn,1.191,On medication,Pt324_PD_n_1800.npy
+1801,400,C,1,90.0,pivot_turn,1.637,Control,Pt400_C_n_1801.npy
+1802,400,C,1,90.0,step_turn,4.091,Control,Pt400_C_n_1802.npy
+1804,400,C,1,90.0,pivot_turn,1.545,Control,Pt400_C_n_1804.npy
+1806,400,C,2,90.0,pivot_turn,2.091,Control,Pt400_C_n_1806.npy
+1807,400,C,1,90.0,pivot_turn,1.817999,Control,Pt400_C_n_1807.npy
+1812,324,PD,1,90.0,pivot_turn,1.064999,On medication,Pt324_PD_n_1812.npy
+1813,324,PD,1,90.0,pivot_turn,1.128999,On medication,Pt324_PD_n_1813.npy
+1814,324,PD,2,90.0,pivot_turn,1.128999,On medication,Pt324_PD_n_1814.npy
+1818,324,PD,1,90.0,pivot_turn,1.388,On medication,Pt324_PD_n_1818.npy
+1819,324,PD,1,180.0,pivot_turn,1.097,On medication,Pt324_PD_n_1819.npy
+1822,400,C,2,180.0,pivot_turn,1.773999,Control,Pt400_C_n_1822.npy
+1824,400,C,2,180.0,pivot_turn,1.161,Control,Pt400_C_n_1824.npy
+1825,400,C,3,180.0,pivot_turn,2.0,Control,Pt400_C_n_1825.npy
+1826,400,C,3,180.0,pivot_turn,1.676999,Control,Pt400_C_n_1826.npy
+1827,400,C,3,180.0,pivot_turn,1.644999,Control,Pt400_C_n_1827.npy
+1829,324,PD,3,180.0,pivot_turn,1.428,On medication,Pt324_PD_n_1829.npy
+1833,324,PD,1,90.0,pivot_turn,1.095,On medication,Pt324_PD_n_1833.npy
+1834,400,C,1,180.0,pivot_turn,1.192999,Control,Pt400_C_n_1834.npy
+1835,324,PD,1,90.0,pivot_turn,1.095,On medication,Pt324_PD_n_1835.npy
+1836,400,C,3,180.0,pivot_turn,1.192999,Control,Pt400_C_n_1836.npy
+1837,324,PD,1,90.0,pivot_turn,1.143,On medication,Pt324_PD_n_1837.npy
+1841,324,PD,2,135.0,pivot_turn,1.667,On medication,Pt324_PD_n_1841.npy
+1843,324,PD,2,90.0,pivot_turn,1.429,On medication,Pt324_PD_n_1843.npy
+1844,400,C,3,180.0,pivot_turn,1.289999,Control,Pt400_C_n_1844.npy
+1845,324,PD,3,180.0,step_turn,2.285999,On medication,Pt324_PD_n_1845.npy
+1846,324,PD,3,90.0,pivot_turn,1.429,On medication,Pt324_PD_n_1846.npy
+1852,400,C,3,180.0,pivot_turn,2.524,Control,Pt400_C_n_1852.npy
+1853,400,C,3,180.0,pivot_turn,2.475999,Control,Pt400_C_n_1853.npy
+1854,400,C,3,180.0,pivot_turn,3.428,Control,Pt400_C_n_1854.npy
+1855,324,PD,1,90.0,pivot_turn,1.189999,On medication,Pt324_PD_n_1855.npy
+1856,400,C,1,90.0,pivot_turn,1.095,Control,Pt400_C_n_1856.npy
+1858,324,PD,1,90.0,pivot_turn,1.380999,On medication,Pt324_PD_n_1858.npy
+1859,324,PD,2,180.0,pivot_turn,2.333,On medication,Pt324_PD_n_1859.npy
+1865,324,PD,4,180.0,pivot_turn,2.190999,On medication,Pt324_PD_n_1865.npy
+1869,324,PD,1,90.0,pivot_turn,1.678,On medication,Pt324_PD_n_1869.npy
+1870,400,C,1,90.0,pivot_turn,1.285,Control,Pt400_C_n_1870.npy
+1877,400,C,1,90.0,pivot_turn,1.286,Control,Pt400_C_n_1877.npy
+1878,400,C,1,90.0,pivot_turn,1.233999,Control,Pt400_C_n_1878.npy
+1886,400,C,2,90.0,pivot_turn,1.064,Control,Pt400_C_n_1886.npy
+1889,324,PD,2,90.0,pivot_turn,1.773999,On medication,Pt324_PD_n_1889.npy
+1890,324,PD,2,180.0,pivot_turn,1.226,On medication,Pt324_PD_n_1890.npy
+1891,324,PD,2,90.0,pivot_turn,1.612999,On medication,Pt324_PD_n_1891.npy
+1892,400,C,2,90.0,pivot_turn,1.338,Control,Pt400_C_n_1892.npy
+1934,324,PD,1,90.0,pivot_turn,1.418999,On medication,Pt324_PD_n_1934.npy
+1937,400,C,1,90.0,pivot_turn,1.645,Control,Pt400_C_n_1937.npy
+1938,324,PD,1,90.0,pivot_turn,1.773999,On medication,Pt324_PD_n_1938.npy
+1943,400,C,2,90.0,pivot_turn,1.291,Control,Pt400_C_n_1943.npy
+1950,400,C,2,90.0,pivot_turn,1.483999,Control,Pt400_C_n_1950.npy
+1952,324,PD,3,135.0,pivot_turn,2.387,On medication,Pt324_PD_n_1952.npy
+1956,324,PD,2,90.0,pivot_turn,1.935,On medication,Pt324_PD_n_1956.npy
+1957,400,C,2,135.0,pivot_turn,1.644999,Control,Pt400_C_n_1957.npy
+1963,400,C,2,90.0,pivot_turn,1.291,Control,Pt400_C_n_1963.npy
+1964,400,C,2,90.0,pivot_turn,1.968,Control,Pt400_C_n_1964.npy
+1966,400,C,3,135.0,pivot_turn,1.612999,Control,Pt400_C_n_1966.npy
+1967,400,C,2,90.0,pivot_turn,1.936,Control,Pt400_C_n_1967.npy
+1973,324,PD,2,90.0,pivot_turn,1.419,On medication,Pt324_PD_n_1973.npy
+1994,324,PD,2,90.0,pivot_turn,1.548,On medication,Pt324_PD_n_1994.npy
+1996,324,PD,2,135.0,pivot_turn,1.388,On medication,Pt324_PD_n_1996.npy
+2017,400,C,2,135.0,pivot_turn,2.0,Control,Pt400_C_n_2017.npy
+2018,324,PD,1,90.0,pivot_turn,1.286,Off medication,Pt324_PD_n_2018.npy
+2023,400,C,2,90.0,pivot_turn,1.977,Control,Pt400_C_n_2023.npy
+2026,400,C,3,180.0,pivot_turn,1.857,Control,Pt400_C_n_2026.npy
+2031,324,PD,3,270.0,pivot_turn,1.714,Off medication,Pt324_PD_n_2031.npy
+2033,324,PD,3,180.0,pivot_turn,1.667,Off medication,Pt324_PD_n_2033.npy
+2034,400,C,1,90.0,pivot_turn,1.381,Control,Pt400_C_n_2034.npy
+2035,324,PD,3,135.0,pivot_turn,2.523,Off medication,Pt324_PD_n_2035.npy
+2039,400,C,1,90.0,pivot_turn,1.332999,Control,Pt400_C_n_2039.npy
+2040,400,C,1,90.0,pivot_turn,1.380999,Control,Pt400_C_n_2040.npy
+2042,400,C,1,90.0,pivot_turn,1.322,Control,Pt400_C_n_2042.npy
+2043,324,PD,4,180.0,pivot_turn,1.475999,Off medication,Pt324_PD_n_2043.npy
+2044,324,PD,4,180.0,pivot_turn,1.809999,Off medication,Pt324_PD_n_2044.npy
+2046,324,PD,3,180.0,pivot_turn,1.237999,Off medication,Pt324_PD_n_2046.npy
+2047,324,PD,4,180.0,pivot_turn,1.572,Off medication,Pt324_PD_n_2047.npy
+2048,400,C,1,90.0,pivot_turn,1.064999,Control,Pt400_C_n_2048.npy
+2049,324,PD,3,180.0,pivot_turn,1.714,Off medication,Pt324_PD_n_2049.npy
+2050,400,C,1,90.0,pivot_turn,1.386999,Control,Pt400_C_n_2050.npy
+2051,324,PD,4,180.0,pivot_turn,2.047,Off medication,Pt324_PD_n_2051.npy
+2055,400,C,2,90.0,pivot_turn,1.323,Control,Pt400_C_n_2055.npy
+2056,400,C,2,90.0,pivot_turn,1.418999,Control,Pt400_C_n_2056.npy
+2057,400,C,1,90.0,pivot_turn,1.257999,Control,Pt400_C_n_2057.npy
+2059,400,C,2,90.0,pivot_turn,1.161999,Control,Pt400_C_n_2059.npy
+2062,324,PD,3,180.0,pivot_turn,1.29,Off medication,Pt324_PD_n_2062.npy
+2064,400,C,1,90.0,pivot_turn,1.709999,Control,Pt400_C_n_2064.npy
+2066,324,PD,1,90.0,pivot_turn,1.258,Off medication,Pt324_PD_n_2066.npy
+2067,324,PD,2,135.0,pivot_turn,1.387,Off medication,Pt324_PD_n_2067.npy
+2068,324,PD,3,135.0,pivot_turn,1.452,Off medication,Pt324_PD_n_2068.npy
+2070,324,PD,2,90.0,pivot_turn,2.096999,Off medication,Pt324_PD_n_2070.npy
+2072,324,PD,2,90.0,pivot_turn,1.128999,Off medication,Pt324_PD_n_2072.npy
+2073,324,PD,2,90.0,pivot_turn,1.548,Off medication,Pt324_PD_n_2073.npy
+2075,324,PD,2,90.0,pivot_turn,1.644999,Off medication,Pt324_PD_n_2075.npy
+2077,324,PD,2,90.0,pivot_turn,1.516,Off medication,Pt324_PD_n_2077.npy
+2078,324,PD,1,90.0,pivot_turn,1.484,Off medication,Pt324_PD_n_2078.npy
+2079,324,PD,2,90.0,pivot_turn,1.160999,Off medication,Pt324_PD_n_2079.npy
+2080,324,PD,1,90.0,pivot_turn,1.225999,Off medication,Pt324_PD_n_2080.npy
+2081,324,PD,2,90.0,pivot_turn,1.128999,Off medication,Pt324_PD_n_2081.npy
+2082,324,PD,2,90.0,pivot_turn,1.483,Off medication,Pt324_PD_n_2082.npy
+2083,400,C,3,180.0,pivot_turn,1.904,Control,Pt400_C_n_2083.npy
+2084,324,PD,1,90.0,pivot_turn,1.548,Off medication,Pt324_PD_n_2084.npy
+2085,400,C,5,180.0,step_turn,3.321999,Control,Pt400_C_n_2085.npy
+2086,324,PD,1,90.0,pivot_turn,1.257999,Off medication,Pt324_PD_n_2086.npy
+2087,324,PD,1,90.0,pivot_turn,1.774999,Off medication,Pt324_PD_n_2087.npy
+2088,324,PD,2,90.0,pivot_turn,1.192999,Off medication,Pt324_PD_n_2088.npy
+2092,400,C,3,180.0,pivot_turn,1.952,Control,Pt400_C_n_2092.npy
+2093,400,C,2,180.0,pivot_turn,1.095,Control,Pt400_C_n_2093.npy
+2094,324,PD,2,90.0,pivot_turn,1.386999,Off medication,Pt324_PD_n_2094.npy
+2095,324,PD,2,135.0,pivot_turn,1.579999,Off medication,Pt324_PD_n_2095.npy
+2096,324,PD,2,90.0,pivot_turn,2.064999,Off medication,Pt324_PD_n_2096.npy
+2097,400,C,2,180.0,pivot_turn,1.095,Control,Pt400_C_n_2097.npy
+2098,324,PD,2,90.0,pivot_turn,1.548,Off medication,Pt324_PD_n_2098.npy
+2099,324,PD,2,90.0,pivot_turn,1.128999,Off medication,Pt324_PD_n_2099.npy
+2100,324,PD,2,135.0,pivot_turn,1.257999,Off medication,Pt324_PD_n_2100.npy
+2101,400,C,2,180.0,pivot_turn,1.237999,Control,Pt400_C_n_2101.npy
+2102,324,PD,1,90.0,pivot_turn,1.676999,Off medication,Pt324_PD_n_2102.npy
+2106,324,PD,1,90.0,pivot_turn,1.353999,Off medication,Pt324_PD_n_2106.npy
+2108,324,PD,2,90.0,pivot_turn,1.226,Off medication,Pt324_PD_n_2108.npy
+2109,324,PD,1,90.0,pivot_turn,1.354999,Off medication,Pt324_PD_n_2109.npy
+2110,324,PD,2,90.0,pivot_turn,1.387,Off medication,Pt324_PD_n_2110.npy
+2111,324,PD,2,90.0,pivot_turn,1.644999,Off medication,Pt324_PD_n_2111.npy
+2112,324,PD,2,90.0,pivot_turn,1.807,Off medication,Pt324_PD_n_2112.npy
+2113,324,PD,2,90.0,pivot_turn,1.709999,Off medication,Pt324_PD_n_2113.npy
+2114,324,PD,3,90.0,step_turn,1.741999,Off medication,Pt324_PD_n_2114.npy
+2115,324,PD,2,90.0,pivot_turn,1.645999,Off medication,Pt324_PD_n_2115.npy
+2118,324,PD,2,135.0,pivot_turn,1.646,Off medication,Pt324_PD_n_2118.npy
+2119,400,C,1,90.0,pivot_turn,1.387,Control,Pt400_C_n_2119.npy
+2120,324,PD,1,90.0,pivot_turn,1.482999,Off medication,Pt324_PD_n_2120.npy
+2124,400,C,2,180.0,pivot_turn,1.419,Control,Pt400_C_n_2124.npy
+2127,400,C,2,90.0,pivot_turn,1.380999,Control,Pt400_C_n_2127.npy
+2129,324,PD,2,90.0,pivot_turn,2.0,On medication,Pt324_PD_n_2129.npy
+2131,324,PD,4,180.0,pivot_turn,1.968,On medication,Pt324_PD_n_2131.npy
+2132,324,PD,2,180.0,pivot_turn,1.258,On medication,Pt324_PD_n_2132.npy
+2148,324,PD,2,90.0,pivot_turn,1.773999,On medication,Pt324_PD_n_2148.npy
+2150,324,PD,2,90.0,pivot_turn,1.225999,On medication,Pt324_PD_n_2150.npy
+2151,324,PD,1,90.0,pivot_turn,1.516,On medication,Pt324_PD_n_2151.npy
+2152,324,PD,2,135.0,pivot_turn,1.484,On medication,Pt324_PD_n_2152.npy
+2154,324,PD,2,90.0,pivot_turn,1.516999,On medication,Pt324_PD_n_2154.npy
+2155,324,PD,1,90.0,pivot_turn,1.773999,On medication,Pt324_PD_n_2155.npy
+2165,324,PD,2,90.0,step_turn,1.31,On medication,Pt324_PD_n_2165.npy
+2167,324,PD,1,90.0,pivot_turn,1.572,On medication,Pt324_PD_n_2167.npy
+2168,324,PD,1,90.0,pivot_turn,1.761999,On medication,Pt324_PD_n_2168.npy
+2169,324,PD,1,90.0,pivot_turn,1.524,On medication,Pt324_PD_n_2169.npy
+2170,324,PD,2,90.0,pivot_turn,1.428999,On medication,Pt324_PD_n_2170.npy
+2171,324,PD,2,90.0,pivot_turn,1.095,On medication,Pt324_PD_n_2171.npy
+2175,227,C,2,90.0,pivot_turn,1.572,Control,Pt227_C_n_2175.npy
+2176,596,PD,2,90.0,pivot_turn,1.571,On medication,Pt596_PD_n_2176.npy
+2178,227,C,2,90.0,pivot_turn,1.380999,Control,Pt227_C_n_2178.npy
+2181,227,C,2,90.0,pivot_turn,1.381,Control,Pt227_C_n_2181.npy
+2185,596,PD,5,180.0,step_turn,2.571,On medication,Pt596_PD_n_2185.npy
+2188,227,C,2,90.0,pivot_turn,1.713999,Control,Pt227_C_n_2188.npy
+2191,596,PD,4,180.0,pivot_turn,2.572,On medication,Pt596_PD_n_2191.npy
+2194,227,C,2,135.0,pivot_turn,1.808999,Control,Pt227_C_n_2194.npy
+2196,596,PD,3,180.0,pivot_turn,1.523999,On medication,Pt596_PD_n_2196.npy
+2200,227,C,3,135.0,pivot_turn,1.952,Control,Pt227_C_n_2200.npy
+2202,596,PD,1,90.0,pivot_turn,1.612999,On medication,Pt596_PD_n_2202.npy
+2203,596,PD,1,90.0,pivot_turn,1.42,On medication,Pt596_PD_n_2203.npy
+2204,596,PD,1,90.0,pivot_turn,2.064,On medication,Pt596_PD_n_2204.npy
+2205,596,PD,1,90.0,pivot_turn,1.484,On medication,Pt596_PD_n_2205.npy
+2206,596,PD,1,90.0,pivot_turn,1.871,On medication,Pt596_PD_n_2206.npy
+2208,227,C,3,180.0,pivot_turn,2.0,Control,Pt227_C_n_2208.npy
+2209,227,C,4,180.0,pivot_turn,2.161,Control,Pt227_C_n_2209.npy
+2210,596,PD,2,90.0,pivot_turn,2.064,On medication,Pt596_PD_n_2210.npy
+2211,596,PD,2,90.0,pivot_turn,1.870999,On medication,Pt596_PD_n_2211.npy
+2212,596,PD,1,90.0,pivot_turn,1.161,On medication,Pt596_PD_n_2212.npy
+2213,227,C,3,180.0,pivot_turn,1.612999,Control,Pt227_C_n_2213.npy
+2214,227,C,3,180.0,pivot_turn,1.742,Control,Pt227_C_n_2214.npy
+2215,227,C,3,180.0,pivot_turn,1.871,Control,Pt227_C_n_2215.npy
+2216,227,C,3,180.0,pivot_turn,1.452,Control,Pt227_C_n_2216.npy
+2217,227,C,2,90.0,step_turn,1.257999,Control,Pt227_C_n_2217.npy
+2218,227,C,2,90.0,step_turn,1.097,Control,Pt227_C_n_2218.npy
+2219,227,C,3,180.0,pivot_turn,1.581,Control,Pt227_C_n_2219.npy
+2220,596,PD,2,135.0,pivot_turn,2.128999,On medication,Pt596_PD_n_2220.npy
+2221,227,C,2,180.0,pivot_turn,1.549,Control,Pt227_C_n_2221.npy
+2222,227,C,3,180.0,pivot_turn,2.614,Control,Pt227_C_n_2222.npy
+2234,596,PD,2,90.0,pivot_turn,2.046999,On medication,Pt596_PD_n_2234.npy
+2235,596,PD,2,135.0,pivot_turn,1.714,On medication,Pt596_PD_n_2235.npy
+2236,596,PD,2,90.0,pivot_turn,1.381,On medication,Pt596_PD_n_2236.npy
+2237,596,PD,3,180.0,pivot_turn,2.332999,On medication,Pt596_PD_n_2237.npy
+2239,227,C,3,90.0,pivot_turn,2.618999,Control,Pt227_C_n_2239.npy
+2241,596,PD,1,90.0,pivot_turn,1.667,On medication,Pt596_PD_n_2241.npy
+2242,596,PD,3,180.0,pivot_turn,3.191,On medication,Pt596_PD_n_2242.npy
+2243,596,PD,2,90.0,pivot_turn,2.143,On medication,Pt596_PD_n_2243.npy
+2245,596,PD,2,90.0,pivot_turn,1.284999,On medication,Pt596_PD_n_2245.npy
+2246,596,PD,2,90.0,pivot_turn,2.667,On medication,Pt596_PD_n_2246.npy
+2247,596,PD,2,90.0,pivot_turn,1.667,On medication,Pt596_PD_n_2247.npy
+2248,596,PD,2,180.0,pivot_turn,1.904999,On medication,Pt596_PD_n_2248.npy
+2249,596,PD,2,90.0,pivot_turn,1.952,On medication,Pt596_PD_n_2249.npy
+2250,596,PD,2,90.0,pivot_turn,2.524,On medication,Pt596_PD_n_2250.npy
+2251,596,PD,3,180.0,pivot_turn,2.142,On medication,Pt596_PD_n_2251.npy
+2252,596,PD,2,180.0,pivot_turn,2.284999,On medication,Pt596_PD_n_2252.npy
+2255,596,PD,3,135.0,pivot_turn,2.952,On medication,Pt596_PD_n_2255.npy
+2256,596,PD,1,90.0,pivot_turn,2.094999,On medication,Pt596_PD_n_2256.npy
+2257,596,PD,1,90.0,pivot_turn,1.237999,On medication,Pt596_PD_n_2257.npy
+2258,596,PD,2,90.0,pivot_turn,2.096,On medication,Pt596_PD_n_2258.npy
+2259,596,PD,1,90.0,pivot_turn,1.189999,On medication,Pt596_PD_n_2259.npy
+2260,596,PD,2,90.0,pivot_turn,1.524,On medication,Pt596_PD_n_2260.npy
+2262,227,C,2,90.0,pivot_turn,1.714999,Control,Pt227_C_n_2262.npy
+2263,596,PD,2,90.0,pivot_turn,2.285999,On medication,Pt596_PD_n_2263.npy
+2264,596,PD,2,135.0,pivot_turn,2.047999,On medication,Pt596_PD_n_2264.npy
+2266,596,PD,3,180.0,pivot_turn,2.332999,On medication,Pt596_PD_n_2266.npy
+2267,596,PD,2,135.0,pivot_turn,2.048,On medication,Pt596_PD_n_2267.npy
+2268,596,PD,3,135.0,pivot_turn,2.237999,On medication,Pt596_PD_n_2268.npy
+2270,596,PD,4,135.0,step_turn,3.476,On medication,Pt596_PD_n_2270.npy
+2271,596,PD,2,135.0,pivot_turn,1.904999,On medication,Pt596_PD_n_2271.npy
+2274,596,PD,2,90.0,pivot_turn,1.856999,On medication,Pt596_PD_n_2274.npy
+2276,596,PD,1,90.0,pivot_turn,1.571,On medication,Pt596_PD_n_2276.npy
+2277,596,PD,2,90.0,pivot_turn,1.952,On medication,Pt596_PD_n_2277.npy
+2279,596,PD,4,180.0,step_turn,4.332999,On medication,Pt596_PD_n_2279.npy
+2280,596,PD,2,135.0,pivot_turn,1.618999,On medication,Pt596_PD_n_2280.npy
+2281,596,PD,3,180.0,pivot_turn,2.571999,On medication,Pt596_PD_n_2281.npy
+2282,596,PD,2,90.0,pivot_turn,1.523999,On medication,Pt596_PD_n_2282.npy
+2283,596,PD,2,90.0,pivot_turn,1.904999,On medication,Pt596_PD_n_2283.npy
+2284,596,PD,3,90.0,pivot_turn,2.715,On medication,Pt596_PD_n_2284.npy
+2286,596,PD,2,180.0,pivot_turn,2.761999,On medication,Pt596_PD_n_2286.npy
+2287,596,PD,1,90.0,pivot_turn,2.095,On medication,Pt596_PD_n_2287.npy
+2289,596,PD,4,180.0,pivot_turn,3.0,On medication,Pt596_PD_n_2289.npy
+2297,596,PD,2,135.0,pivot_turn,2.333999,On medication,Pt596_PD_n_2297.npy
+2298,596,PD,2,135.0,pivot_turn,1.905,On medication,Pt596_PD_n_2298.npy
+2299,596,PD,2,90.0,pivot_turn,1.143,On medication,Pt596_PD_n_2299.npy
+2300,596,PD,1,90.0,pivot_turn,2.524,On medication,Pt596_PD_n_2300.npy
+2305,596,PD,2,135.0,pivot_turn,2.428,On medication,Pt596_PD_n_2305.npy
+2310,596,PD,3,135.0,step_turn,3.0,On medication,Pt596_PD_n_2310.npy
+2311,596,PD,2,90.0,pivot_turn,2.095,On medication,Pt596_PD_n_2311.npy
+2312,596,PD,2,90.0,pivot_turn,3.0,On medication,Pt596_PD_n_2312.npy
+2313,227,C,2,90.0,pivot_turn,1.332999,Control,Pt227_C_n_2313.npy
+2314,596,PD,2,90.0,pivot_turn,2.048,On medication,Pt596_PD_n_2314.npy
+2318,596,PD,2,90.0,pivot_turn,2.667,On medication,Pt596_PD_n_2318.npy
+2319,227,C,3,90.0,pivot_turn,3.142999,Control,Pt227_C_n_2319.npy
+2322,596,PD,2,90.0,pivot_turn,1.808999,On medication,Pt596_PD_n_2322.npy
+2325,596,PD,2,90.0,pivot_turn,1.667,On medication,Pt596_PD_n_2325.npy
+2326,227,C,2,90.0,pivot_turn,2.428,Control,Pt227_C_n_2326.npy
+2327,596,PD,2,90.0,pivot_turn,1.714,On medication,Pt596_PD_n_2327.npy
+2331,596,PD,2,90.0,pivot_turn,1.761999,On medication,Pt596_PD_n_2331.npy
+2333,227,C,3,135.0,pivot_turn,4.238,Control,Pt227_C_n_2333.npy
+2334,596,PD,4,135.0,step_turn,3.0,On medication,Pt596_PD_n_2334.npy
+2337,596,PD,2,180.0,pivot_turn,1.809999,On medication,Pt596_PD_n_2337.npy
+2338,227,C,1,90.0,pivot_turn,1.81,Control,Pt227_C_n_2338.npy
+2339,227,C,2,180.0,pivot_turn,2.046999,Control,Pt227_C_n_2339.npy
+2340,227,C,2,135.0,pivot_turn,2.380999,Control,Pt227_C_n_2340.npy
+2343,227,C,2,90.0,pivot_turn,2.333,Control,Pt227_C_n_2343.npy
+2349,596,PD,2,135.0,pivot_turn,2.191,On medication,Pt596_PD_n_2349.npy
+2350,596,PD,3,135.0,pivot_turn,2.191,On medication,Pt596_PD_n_2350.npy
+2351,596,PD,1,90.0,pivot_turn,1.809999,On medication,Pt596_PD_n_2351.npy
+2353,596,PD,2,90.0,pivot_turn,1.809999,On medication,Pt596_PD_n_2353.npy
+2354,596,PD,1,90.0,pivot_turn,1.952,On medication,Pt596_PD_n_2354.npy
+2357,596,PD,1,135.0,pivot_turn,1.238,On medication,Pt596_PD_n_2357.npy
+2358,596,PD,2,135.0,pivot_turn,1.953,On medication,Pt596_PD_n_2358.npy
+2360,596,PD,2,90.0,pivot_turn,1.665999,On medication,Pt596_PD_n_2360.npy
+2362,227,C,1,90.0,pivot_turn,1.237999,Control,Pt227_C_n_2362.npy
+2364,227,C,2,90.0,pivot_turn,2.182,Control,Pt227_C_n_2364.npy
+2366,596,PD,1,90.0,pivot_turn,1.286,On medication,Pt596_PD_n_2366.npy
+2367,596,PD,2,90.0,pivot_turn,1.571,On medication,Pt596_PD_n_2367.npy
+2369,227,C,2,90.0,pivot_turn,1.191,Control,Pt227_C_n_2369.npy
+2370,227,C,2,90.0,pivot_turn,1.142999,Control,Pt227_C_n_2370.npy
+2371,227,C,2,90.0,pivot_turn,1.427999,Control,Pt227_C_n_2371.npy
+2372,227,C,2,90.0,pivot_turn,1.618999,Control,Pt227_C_n_2372.npy
+2373,227,C,2,90.0,pivot_turn,1.570999,Control,Pt227_C_n_2373.npy
+2374,227,C,2,135.0,pivot_turn,1.81,Control,Pt227_C_n_2374.npy
+2375,227,C,3,135.0,pivot_turn,2.095,Control,Pt227_C_n_2375.npy
+2376,227,C,4,135.0,pivot_turn,2.285999,Control,Pt227_C_n_2376.npy
+2377,227,C,1,90.0,pivot_turn,1.332999,Control,Pt227_C_n_2377.npy
+2378,227,C,2,135.0,pivot_turn,2.095,Control,Pt227_C_n_2378.npy
+2379,227,C,1,90.0,pivot_turn,1.761999,Control,Pt227_C_n_2379.npy
+2380,596,PD,1,90.0,pivot_turn,1.237999,Off medication,Pt596_PD_n_2380.npy
+2381,596,PD,1,90.0,pivot_turn,1.677,Off medication,Pt596_PD_n_2381.npy
+2382,596,PD,2,90.0,pivot_turn,1.386999,Off medication,Pt596_PD_n_2382.npy
+2384,596,PD,1,90.0,pivot_turn,1.128999,Off medication,Pt596_PD_n_2384.npy
+2385,596,PD,2,180.0,pivot_turn,1.42,Off medication,Pt596_PD_n_2385.npy
+2386,596,PD,2,90.0,step_turn,2.096999,Off medication,Pt596_PD_n_2386.npy
+2387,596,PD,1,90.0,pivot_turn,1.516,Off medication,Pt596_PD_n_2387.npy
+2393,596,PD,4,90.0,step_turn,2.934999,Off medication,Pt596_PD_n_2393.npy
+2394,596,PD,2,90.0,pivot_turn,1.708999,Off medication,Pt596_PD_n_2394.npy
+2395,596,PD,1,90.0,pivot_turn,2.096999,Off medication,Pt596_PD_n_2395.npy
+2396,596,PD,2,90.0,pivot_turn,1.548,Off medication,Pt596_PD_n_2396.npy
+2400,227,C,2,90.0,pivot_turn,1.838,Control,Pt227_C_n_2400.npy
+2402,227,C,2,135.0,pivot_turn,1.708999,Control,Pt227_C_n_2402.npy
+2404,596,PD,4,180.0,pivot_turn,2.934999,Off medication,Pt596_PD_n_2404.npy
+2405,596,PD,1,90.0,pivot_turn,1.708999,Off medication,Pt596_PD_n_2405.npy
+2406,596,PD,1,90.0,pivot_turn,2.095999,Off medication,Pt596_PD_n_2406.npy
+2408,227,C,2,90.0,pivot_turn,1.665999,Control,Pt227_C_n_2408.npy
+2409,227,C,2,90.0,pivot_turn,2.62,Control,Pt227_C_n_2409.npy
+2410,227,C,1,90.0,pivot_turn,2.143,Control,Pt227_C_n_2410.npy
+2411,227,C,1,90.0,pivot_turn,1.142,Control,Pt227_C_n_2411.npy
+2412,227,C,2,90.0,pivot_turn,1.856999,Control,Pt227_C_n_2412.npy
+2413,227,C,1,90.0,pivot_turn,1.809999,Control,Pt227_C_n_2413.npy
+2414,227,C,2,135.0,pivot_turn,2.237999,Control,Pt227_C_n_2414.npy
+2415,227,C,2,90.0,pivot_turn,2.237999,Control,Pt227_C_n_2415.npy
+2423,596,PD,4,180.0,step_turn,2.381,Off medication,Pt596_PD_n_2423.npy
+2424,596,PD,5,180.0,step_turn,2.762,Off medication,Pt596_PD_n_2424.npy
+2425,596,PD,5,180.0,step_turn,3.332999,Off medication,Pt596_PD_n_2425.npy
+2426,596,PD,4,180.0,step_turn,2.143,Off medication,Pt596_PD_n_2426.npy
+2427,596,PD,4,180.0,pivot_turn,3.095,Off medication,Pt596_PD_n_2427.npy
+2428,596,PD,4,180.0,step_turn,2.333999,Off medication,Pt596_PD_n_2428.npy
+2432,596,PD,2,180.0,pivot_turn,1.524,Off medication,Pt596_PD_n_2432.npy
+2433,596,PD,4,180.0,pivot_turn,2.143,Off medication,Pt596_PD_n_2433.npy
+2434,596,PD,4,180.0,pivot_turn,2.285999,Off medication,Pt596_PD_n_2434.npy
+2439,596,PD,2,90.0,pivot_turn,2.237999,Off medication,Pt596_PD_n_2439.npy
+2443,596,PD,2,90.0,pivot_turn,1.476,Off medication,Pt596_PD_n_2443.npy
+2446,596,PD,1,90.0,pivot_turn,1.714,Off medication,Pt596_PD_n_2446.npy
+2457,596,PD,1,90.0,pivot_turn,2.0,Off medication,Pt596_PD_n_2457.npy
+2459,227,C,4,180.0,pivot_turn,1.428999,Control,Pt227_C_n_2459.npy
+2465,596,PD,1,90.0,pivot_turn,1.101999,Off medication,Pt596_PD_n_2465.npy
+2466,596,PD,3,90.0,step_turn,2.096,Off medication,Pt596_PD_n_2466.npy
+2468,596,PD,2,90.0,pivot_turn,1.904999,Off medication,Pt596_PD_n_2468.npy
+2469,596,PD,4,180.0,pivot_turn,3.761999,Off medication,Pt596_PD_n_2469.npy
+2470,596,PD,2,90.0,pivot_turn,1.856999,Off medication,Pt596_PD_n_2470.npy
+2471,596,PD,1,90.0,pivot_turn,1.237999,Off medication,Pt596_PD_n_2471.npy
+2473,227,C,1,90.0,pivot_turn,1.524,Control,Pt227_C_n_2473.npy
+2476,227,C,2,90.0,pivot_turn,1.189999,Control,Pt227_C_n_2476.npy
+2477,227,C,2,90.0,pivot_turn,1.809999,Control,Pt227_C_n_2477.npy
+2478,227,C,2,90.0,pivot_turn,1.523,Control,Pt227_C_n_2478.npy
+2479,227,C,2,90.0,pivot_turn,1.571,Control,Pt227_C_n_2479.npy
+2480,227,C,2,90.0,pivot_turn,1.524,Control,Pt227_C_n_2480.npy
+2489,596,PD,4,180.0,step_turn,2.141999,On medication,Pt596_PD_n_2489.npy
+2490,596,PD,4,180.0,step_turn,2.19,On medication,Pt596_PD_n_2490.npy
+2491,596,PD,4,180.0,step_turn,2.143,On medication,Pt596_PD_n_2491.npy
+2492,596,PD,3,180.0,pivot_turn,1.953,On medication,Pt596_PD_n_2492.npy
+2493,596,PD,3,180.0,pivot_turn,2.380999,On medication,Pt596_PD_n_2493.npy
+2494,596,PD,3,180.0,pivot_turn,2.189999,On medication,Pt596_PD_n_2494.npy
+2495,596,PD,4,180.0,pivot_turn,2.762,On medication,Pt596_PD_n_2495.npy
+2496,596,PD,2,90.0,pivot_turn,1.808999,On medication,Pt596_PD_n_2496.npy
+2497,596,PD,2,90.0,pivot_turn,2.572,On medication,Pt596_PD_n_2497.npy
+2498,596,PD,3,180.0,pivot_turn,1.715,On medication,Pt596_PD_n_2498.npy
+2499,596,PD,2,180.0,pivot_turn,1.667,On medication,Pt596_PD_n_2499.npy
+2500,596,PD,3,180.0,pivot_turn,1.524,On medication,Pt596_PD_n_2500.npy
+2501,596,PD,2,180.0,pivot_turn,1.238,On medication,Pt596_PD_n_2501.npy
+2502,596,PD,3,180.0,pivot_turn,2.380999,On medication,Pt596_PD_n_2502.npy
+2503,596,PD,2,90.0,pivot_turn,1.572,On medication,Pt596_PD_n_2503.npy
+2504,596,PD,1,90.0,pivot_turn,1.761999,On medication,Pt596_PD_n_2504.npy
+2507,596,PD,2,90.0,pivot_turn,1.857,On medication,Pt596_PD_n_2507.npy
+2508,596,PD,2,90.0,pivot_turn,2.046999,On medication,Pt596_PD_n_2508.npy
+2509,971,C,2,90.0,pivot_turn,1.524,Control,Pt971_C_n_2509.npy
+2510,971,C,2,90.0,pivot_turn,1.095,Control,Pt971_C_n_2510.npy
+2511,971,C,2,90.0,pivot_turn,1.713999,Control,Pt971_C_n_2511.npy
+2512,971,C,2,90.0,pivot_turn,1.285,Control,Pt971_C_n_2512.npy
+2513,971,C,1,90.0,pivot_turn,1.142999,Control,Pt971_C_n_2513.npy
+2514,971,C,2,90.0,pivot_turn,2.334,Control,Pt971_C_n_2514.npy
+2515,971,C,2,90.0,pivot_turn,1.619,Control,Pt971_C_n_2515.npy
+2516,971,C,2,90.0,pivot_turn,1.572,Control,Pt971_C_n_2516.npy
+2517,971,C,2,90.0,pivot_turn,1.381,Control,Pt971_C_n_2517.npy
+2518,384,PD,2,90.0,pivot_turn,2.428999,On medication,Pt384_PD_n_2518.npy
+2519,384,PD,2,90.0,pivot_turn,1.857,On medication,Pt384_PD_n_2519.npy
+2520,384,PD,2,90.0,pivot_turn,2.667,On medication,Pt384_PD_n_2520.npy
+2522,384,PD,2,90.0,pivot_turn,2.143,On medication,Pt384_PD_n_2522.npy
+2523,971,C,3,180.0,pivot_turn,1.667,Control,Pt971_C_n_2523.npy
+2524,384,PD,2,90.0,pivot_turn,1.237999,On medication,Pt384_PD_n_2524.npy
+2525,384,PD,2,135.0,pivot_turn,2.048,On medication,Pt384_PD_n_2525.npy
+2526,971,C,4,180.0,pivot_turn,1.619,Control,Pt971_C_n_2526.npy
+2527,384,PD,2,90.0,pivot_turn,1.809999,On medication,Pt384_PD_n_2527.npy
+2528,971,C,4,180.0,pivot_turn,1.856999,Control,Pt971_C_n_2528.npy
+2529,971,C,2,180.0,pivot_turn,2.476,Control,Pt971_C_n_2529.npy
+2530,971,C,3,180.0,pivot_turn,1.618999,Control,Pt971_C_n_2530.npy
+2531,971,C,2,180.0,pivot_turn,1.095,Control,Pt971_C_n_2531.npy
+2532,971,C,2,180.0,pivot_turn,1.143,Control,Pt971_C_n_2532.npy
+2533,384,PD,2,90.0,pivot_turn,2.094999,On medication,Pt384_PD_n_2533.npy
+2535,971,C,2,90.0,pivot_turn,1.380999,Control,Pt971_C_n_2535.npy
+2546,384,PD,4,90.0,pivot_turn,3.381,On medication,Pt384_PD_n_2546.npy
+2561,971,C,2,180.0,pivot_turn,2.19,Control,Pt971_C_n_2561.npy
+2569,971,C,1,90.0,pivot_turn,1.619,Control,Pt971_C_n_2569.npy
+2570,971,C,2,90.0,pivot_turn,1.284999,Control,Pt971_C_n_2570.npy
+2571,971,C,1,90.0,pivot_turn,1.428999,Control,Pt971_C_n_2571.npy
+2572,971,C,2,90.0,pivot_turn,2.143,Control,Pt971_C_n_2572.npy
+2573,971,C,3,180.0,pivot_turn,2.286,Control,Pt971_C_n_2573.npy
+2574,971,C,1,90.0,pivot_turn,1.428,Control,Pt971_C_n_2574.npy
+2575,971,C,3,90.0,pivot_turn,2.0,Control,Pt971_C_n_2575.npy
+2576,971,C,2,90.0,pivot_turn,1.380999,Control,Pt971_C_n_2576.npy
+2577,971,C,2,90.0,pivot_turn,1.666,Control,Pt971_C_n_2577.npy
+2578,971,C,2,90.0,pivot_turn,1.190999,Control,Pt971_C_n_2578.npy
+2580,971,C,1,90.0,pivot_turn,1.284999,Control,Pt971_C_n_2580.npy
+2582,971,C,2,90.0,pivot_turn,1.380999,Control,Pt971_C_n_2582.npy
+2583,971,C,2,90.0,pivot_turn,1.952999,Control,Pt971_C_n_2583.npy
+2584,971,C,2,90.0,pivot_turn,1.332999,Control,Pt971_C_n_2584.npy
+2585,971,C,3,90.0,pivot_turn,2.094999,Control,Pt971_C_n_2585.npy
+2587,971,C,2,135.0,pivot_turn,1.667,Control,Pt971_C_n_2587.npy
+2588,971,C,2,90.0,pivot_turn,1.428,Control,Pt971_C_n_2588.npy
+2589,971,C,2,90.0,pivot_turn,1.714,Control,Pt971_C_n_2589.npy
+2594,384,PD,3,90.0,step_turn,1.904999,On medication,Pt384_PD_n_2594.npy
+2603,384,PD,2,90.0,pivot_turn,1.524,On medication,Pt384_PD_n_2603.npy
+2605,384,PD,1,90.0,pivot_turn,1.856999,On medication,Pt384_PD_n_2605.npy
+2606,384,PD,2,135.0,pivot_turn,1.143,On medication,Pt384_PD_n_2606.npy
+2607,384,PD,2,90.0,pivot_turn,2.096,On medication,Pt384_PD_n_2607.npy
+2608,384,PD,2,90.0,pivot_turn,1.380999,On medication,Pt384_PD_n_2608.npy
+2610,384,PD,2,90.0,pivot_turn,2.380999,On medication,Pt384_PD_n_2610.npy
+2614,971,C,3,180.0,pivot_turn,1.856999,Control,Pt971_C_n_2614.npy
+2615,384,PD,2,90.0,pivot_turn,1.19,On medication,Pt384_PD_n_2615.npy
+2616,384,PD,4,90.0,pivot_turn,1.571,On medication,Pt384_PD_n_2616.npy
+2617,384,PD,2,90.0,pivot_turn,2.141999,On medication,Pt384_PD_n_2617.npy
+2618,384,PD,4,90.0,pivot_turn,2.380999,On medication,Pt384_PD_n_2618.npy
+2619,384,PD,3,90.0,pivot_turn,2.381,On medication,Pt384_PD_n_2619.npy
+2620,384,PD,3,90.0,pivot_turn,1.856999,On medication,Pt384_PD_n_2620.npy
+2621,384,PD,2,90.0,pivot_turn,2.0,On medication,Pt384_PD_n_2621.npy
+2622,384,PD,2,90.0,pivot_turn,2.048,On medication,Pt384_PD_n_2622.npy
+2623,384,PD,2,90.0,pivot_turn,1.285999,On medication,Pt384_PD_n_2623.npy
+2624,384,PD,2,90.0,pivot_turn,2.619,On medication,Pt384_PD_n_2624.npy
+2625,384,PD,2,90.0,pivot_turn,1.524,On medication,Pt384_PD_n_2625.npy
+2626,384,PD,4,90.0,pivot_turn,3.476,On medication,Pt384_PD_n_2626.npy
+2627,384,PD,2,90.0,pivot_turn,1.905,On medication,Pt384_PD_n_2627.npy
+2632,384,PD,4,90.0,pivot_turn,3.572,On medication,Pt384_PD_n_2632.npy
+2633,384,PD,2,90.0,pivot_turn,1.429,On medication,Pt384_PD_n_2633.npy
+2635,384,PD,2,90.0,pivot_turn,2.143,On medication,Pt384_PD_n_2635.npy
+2636,971,C,2,180.0,pivot_turn,1.762,Control,Pt971_C_n_2636.npy
+2639,971,C,1,90.0,pivot_turn,1.143,Control,Pt971_C_n_2639.npy
+2640,971,C,2,90.0,pivot_turn,1.81,Control,Pt971_C_n_2640.npy
+2641,971,C,2,90.0,pivot_turn,1.81,Control,Pt971_C_n_2641.npy
+2642,971,C,2,90.0,pivot_turn,2.238,Control,Pt971_C_n_2642.npy
+2661,971,C,3,180.0,pivot_turn,2.238,Control,Pt971_C_n_2661.npy
+2663,971,C,2,90.0,pivot_turn,1.572,Control,Pt971_C_n_2663.npy
+2664,971,C,2,90.0,pivot_turn,1.762,Control,Pt971_C_n_2664.npy
+2665,971,C,2,90.0,pivot_turn,2.095,Control,Pt971_C_n_2665.npy
+2666,971,C,2,90.0,pivot_turn,2.476,Control,Pt971_C_n_2666.npy
+2667,971,C,1,90.0,pivot_turn,1.761999,Control,Pt971_C_n_2667.npy
+2668,971,C,2,135.0,pivot_turn,1.619,Control,Pt971_C_n_2668.npy
+2669,971,C,2,180.0,pivot_turn,1.666,Control,Pt971_C_n_2669.npy
+2670,971,C,1,90.0,pivot_turn,1.284999,Control,Pt971_C_n_2670.npy
+2671,971,C,2,90.0,pivot_turn,1.952999,Control,Pt971_C_n_2671.npy
+2672,971,C,2,90.0,pivot_turn,1.572,Control,Pt971_C_n_2672.npy
+2673,971,C,2,135.0,pivot_turn,1.856999,Control,Pt971_C_n_2673.npy
+2674,971,C,2,90.0,pivot_turn,1.809999,Control,Pt971_C_n_2674.npy
+2675,971,C,2,135.0,pivot_turn,1.380999,Control,Pt971_C_n_2675.npy
+2677,971,C,2,90.0,pivot_turn,1.839,Control,Pt971_C_n_2677.npy
+2679,971,C,1,90.0,pivot_turn,1.677999,Control,Pt971_C_n_2679.npy
+2680,971,C,2,135.0,pivot_turn,1.742,Control,Pt971_C_n_2680.npy
+2682,971,C,2,90.0,pivot_turn,1.476,Control,Pt971_C_n_2682.npy
+2683,971,C,2,90.0,pivot_turn,1.856999,Control,Pt971_C_n_2683.npy
+2685,971,C,3,180.0,pivot_turn,2.128999,Control,Pt971_C_n_2685.npy
+2686,971,C,2,90.0,pivot_turn,1.321999,Control,Pt971_C_n_2686.npy
+2687,971,C,3,180.0,pivot_turn,1.903,Control,Pt971_C_n_2687.npy
+2688,971,C,2,90.0,pivot_turn,1.837999,Control,Pt971_C_n_2688.npy
+2689,384,PD,5,90.0,step_turn,3.160999,On medication,Pt384_PD_n_2689.npy
+2692,971,C,1,90.0,pivot_turn,1.332999,Control,Pt971_C_n_2692.npy
+2693,971,C,2,180.0,pivot_turn,2.386999,Control,Pt971_C_n_2693.npy
+2694,384,PD,6,180.0,pivot_turn,3.762,Off medication,Pt384_PD_n_2694.npy
+2695,384,PD,3,180.0,pivot_turn,2.667,Off medication,Pt384_PD_n_2695.npy
+2696,384,PD,4,180.0,pivot_turn,2.808999,Off medication,Pt384_PD_n_2696.npy
+2697,384,PD,6,180.0,step_turn,2.095,Off medication,Pt384_PD_n_2697.npy
+2698,384,PD,4,180.0,pivot_turn,2.048,Off medication,Pt384_PD_n_2698.npy
+2705,384,PD,5,90.0,step_turn,3.332999,Off medication,Pt384_PD_n_2705.npy
+2706,384,PD,4,180.0,pivot_turn,2.524,Off medication,Pt384_PD_n_2706.npy
+2707,384,PD,3,180.0,pivot_turn,1.856999,Off medication,Pt384_PD_n_2707.npy
+2709,384,PD,2,90.0,pivot_turn,2.713999,Off medication,Pt384_PD_n_2709.npy
+2710,384,PD,4,90.0,pivot_turn,3.332999,Off medication,Pt384_PD_n_2710.npy
+2711,971,C,2,135.0,pivot_turn,1.618999,Control,Pt971_C_n_2711.npy
+2712,971,C,2,90.0,pivot_turn,1.476,Control,Pt971_C_n_2712.npy
+2713,971,C,3,180.0,pivot_turn,1.58,Control,Pt971_C_n_2713.npy
+2714,971,C,3,180.0,pivot_turn,1.676999,Control,Pt971_C_n_2714.npy
+2716,971,C,4,180.0,pivot_turn,1.193999,Control,Pt971_C_n_2716.npy
+2717,971,C,3,180.0,pivot_turn,1.774,Control,Pt971_C_n_2717.npy
+2718,971,C,3,180.0,pivot_turn,1.935999,Control,Pt971_C_n_2718.npy
+2719,971,C,3,180.0,pivot_turn,1.096999,Control,Pt971_C_n_2719.npy
+2721,971,C,2,180.0,pivot_turn,1.42,Control,Pt971_C_n_2721.npy
+2723,971,C,2,90.0,step_turn,1.484,Control,Pt971_C_n_2723.npy
+2724,971,C,2,90.0,pivot_turn,1.806999,Control,Pt971_C_n_2724.npy
+2725,971,C,1,90.0,pivot_turn,1.355,Control,Pt971_C_n_2725.npy
+2726,971,C,2,90.0,pivot_turn,2.097,Control,Pt971_C_n_2726.npy
+2727,971,C,1,90.0,pivot_turn,1.581,Control,Pt971_C_n_2727.npy
+2728,971,C,2,90.0,pivot_turn,1.580999,Control,Pt971_C_n_2728.npy
+2729,971,C,2,90.0,pivot_turn,1.516,Control,Pt971_C_n_2729.npy
+2730,971,C,2,90.0,pivot_turn,1.355,Control,Pt971_C_n_2730.npy
+2731,971,C,1,90.0,pivot_turn,1.224999,Control,Pt971_C_n_2731.npy
+2732,971,C,2,90.0,pivot_turn,1.935,Control,Pt971_C_n_2732.npy
+2733,971,C,3,135.0,pivot_turn,1.774,Control,Pt971_C_n_2733.npy
+2734,971,C,3,225.0,pivot_turn,1.644999,Control,Pt971_C_n_2734.npy
+2738,384,PD,3,90.0,pivot_turn,2.128999,Off medication,Pt384_PD_n_2738.npy
+2740,384,PD,5,90.0,pivot_turn,4.322,Off medication,Pt384_PD_n_2740.npy
+2742,384,PD,4,180.0,pivot_turn,2.428,On medication,Pt384_PD_n_2742.npy
+2743,384,PD,3,180.0,pivot_turn,1.714,On medication,Pt384_PD_n_2743.npy
+2744,384,PD,4,180.0,pivot_turn,2.191,On medication,Pt384_PD_n_2744.npy
+2745,384,PD,4,180.0,pivot_turn,1.904999,On medication,Pt384_PD_n_2745.npy
+2746,384,PD,5,180.0,pivot_turn,1.904999,On medication,Pt384_PD_n_2746.npy
+2754,495,C,2,90.0,step_turn,1.857,Control,Pt495_C_n_2754.npy
+2755,495,C,1,90.0,pivot_turn,2.285999,Control,Pt495_C_n_2755.npy
+2757,398,PD,3,90.0,step_turn,3.094999,On medication,Pt398_PD_n_2757.npy
+2758,495,C,1,90.0,pivot_turn,1.572,Control,Pt495_C_n_2758.npy
+2760,398,PD,2,90.0,pivot_turn,1.808999,On medication,Pt398_PD_n_2760.npy
+2761,495,C,3,180.0,pivot_turn,1.571999,Control,Pt495_C_n_2761.npy
+2762,495,C,3,180.0,pivot_turn,1.808999,Control,Pt495_C_n_2762.npy
+2763,398,PD,2,90.0,pivot_turn,1.476999,On medication,Pt398_PD_n_2763.npy
+2764,495,C,4,180.0,pivot_turn,1.476999,Control,Pt495_C_n_2764.npy
+2765,495,C,4,180.0,pivot_turn,1.714,Control,Pt495_C_n_2765.npy
+2766,495,C,3,180.0,pivot_turn,2.191,Control,Pt495_C_n_2766.npy
+2767,495,C,5,180.0,pivot_turn,2.047999,Control,Pt495_C_n_2767.npy
+2768,398,PD,2,90.0,pivot_turn,1.048,On medication,Pt398_PD_n_2768.npy
+2769,495,C,3,180.0,pivot_turn,1.143,Control,Pt495_C_n_2769.npy
+2770,495,C,4,180.0,pivot_turn,1.189999,Control,Pt495_C_n_2770.npy
+2772,398,PD,2,90.0,pivot_turn,1.238,On medication,Pt398_PD_n_2772.npy
+2773,495,C,2,135.0,pivot_turn,2.143,Control,Pt495_C_n_2773.npy
+2775,398,PD,3,90.0,pivot_turn,2.191,On medication,Pt398_PD_n_2775.npy
+2776,495,C,1,90.0,pivot_turn,1.094999,Control,Pt495_C_n_2776.npy
+2777,398,PD,3,90.0,pivot_turn,1.81,On medication,Pt398_PD_n_2777.npy
+2779,398,PD,2,90.0,pivot_turn,1.667,On medication,Pt398_PD_n_2779.npy
+2781,495,C,3,180.0,pivot_turn,2.142999,Control,Pt495_C_n_2781.npy
+2782,495,C,2,135.0,pivot_turn,1.286,Control,Pt495_C_n_2782.npy
+2785,495,C,2,90.0,pivot_turn,1.665999,Control,Pt495_C_n_2785.npy
+2786,495,C,2,90.0,pivot_turn,1.808999,Control,Pt495_C_n_2786.npy
+2788,495,C,3,90.0,pivot_turn,1.857999,Control,Pt495_C_n_2788.npy
+2789,398,PD,5,180.0,pivot_turn,1.951999,On medication,Pt398_PD_n_2789.npy
+2790,495,C,2,90.0,pivot_turn,1.238,Control,Pt495_C_n_2790.npy
+2791,495,C,2,90.0,pivot_turn,1.572,Control,Pt495_C_n_2791.npy
+2792,495,C,2,90.0,pivot_turn,1.189999,Control,Pt495_C_n_2792.npy
+2793,398,PD,4,180.0,pivot_turn,1.524,On medication,Pt398_PD_n_2793.npy
+2794,495,C,2,90.0,pivot_turn,2.0,Control,Pt495_C_n_2794.npy
+2795,398,PD,4,180.0,pivot_turn,2.476,On medication,Pt398_PD_n_2795.npy
+2797,398,PD,5,180.0,step_turn,3.238,On medication,Pt398_PD_n_2797.npy
+2798,398,PD,3,90.0,step_turn,1.667,On medication,Pt398_PD_n_2798.npy
+2799,398,PD,3,90.0,step_turn,3.142999,On medication,Pt398_PD_n_2799.npy
+2800,495,C,2,90.0,pivot_turn,1.809,Control,Pt495_C_n_2800.npy
+2801,495,C,2,90.0,pivot_turn,1.286,Control,Pt495_C_n_2801.npy
+2802,495,C,2,90.0,pivot_turn,1.238,Control,Pt495_C_n_2802.npy
+2803,495,C,3,90.0,pivot_turn,1.808999,Control,Pt495_C_n_2803.npy
+2805,495,C,3,135.0,pivot_turn,1.952999,Control,Pt495_C_n_2805.npy
+2806,495,C,2,90.0,pivot_turn,1.286,Control,Pt495_C_n_2806.npy
+2808,398,PD,3,180.0,pivot_turn,1.476,On medication,Pt398_PD_n_2808.npy
+2809,398,PD,3,180.0,pivot_turn,1.571,On medication,Pt398_PD_n_2809.npy
+2810,398,PD,2,90.0,pivot_turn,1.760999,On medication,Pt398_PD_n_2810.npy
+2811,398,PD,3,90.0,step_turn,2.237999,On medication,Pt398_PD_n_2811.npy
+2812,398,PD,2,90.0,pivot_turn,2.141999,On medication,Pt398_PD_n_2812.npy
+2813,398,PD,2,90.0,pivot_turn,1.667,On medication,Pt398_PD_n_2813.npy
+2814,495,C,2,135.0,pivot_turn,1.524,Control,Pt495_C_n_2814.npy
+2815,495,C,2,135.0,pivot_turn,2.237999,Control,Pt495_C_n_2815.npy
+2828,398,PD,2,90.0,pivot_turn,1.762,On medication,Pt398_PD_n_2828.npy
+2831,398,PD,2,90.0,pivot_turn,2.428,On medication,Pt398_PD_n_2831.npy
+2834,398,PD,2,90.0,pivot_turn,1.380999,On medication,Pt398_PD_n_2834.npy
+2835,398,PD,3,90.0,pivot_turn,2.666,On medication,Pt398_PD_n_2835.npy
+2836,398,PD,2,90.0,pivot_turn,2.189999,On medication,Pt398_PD_n_2836.npy
+2837,398,PD,2,90.0,pivot_turn,1.619,On medication,Pt398_PD_n_2837.npy
+2839,398,PD,3,180.0,pivot_turn,2.048,On medication,Pt398_PD_n_2839.npy
+2842,398,PD,2,90.0,pivot_turn,1.666,On medication,Pt398_PD_n_2842.npy
+2843,398,PD,3,90.0,pivot_turn,2.189999,On medication,Pt398_PD_n_2843.npy
+2844,398,PD,2,90.0,pivot_turn,2.141999,On medication,Pt398_PD_n_2844.npy
+2847,398,PD,3,90.0,pivot_turn,2.19,On medication,Pt398_PD_n_2847.npy
+2850,495,C,3,180.0,pivot_turn,2.19,Control,Pt495_C_n_2850.npy
+2851,495,C,2,180.0,pivot_turn,1.857,Control,Pt495_C_n_2851.npy
+2854,495,C,2,180.0,pivot_turn,2.808999,Control,Pt495_C_n_2854.npy
+2855,495,C,2,180.0,pivot_turn,1.142999,Control,Pt495_C_n_2855.npy
+2857,495,C,2,90.0,pivot_turn,1.476,Control,Pt495_C_n_2857.npy
+2859,495,C,3,180.0,pivot_turn,2.524,Control,Pt495_C_n_2859.npy
+2860,495,C,2,180.0,pivot_turn,1.713999,Control,Pt495_C_n_2860.npy
+2862,495,C,2,180.0,pivot_turn,1.856999,Control,Pt495_C_n_2862.npy
+2867,495,C,3,90.0,pivot_turn,1.618999,Control,Pt495_C_n_2867.npy
+2870,495,C,2,180.0,pivot_turn,1.761999,Control,Pt495_C_n_2870.npy
+2871,495,C,2,180.0,pivot_turn,1.713999,Control,Pt495_C_n_2871.npy
+2872,495,C,2,180.0,pivot_turn,1.904999,Control,Pt495_C_n_2872.npy
+2873,495,C,2,180.0,pivot_turn,2.62,Control,Pt495_C_n_2873.npy
+2874,495,C,1,90.0,pivot_turn,1.762,Control,Pt495_C_n_2874.npy
+2875,495,C,2,180.0,pivot_turn,1.952999,Control,Pt495_C_n_2875.npy
+2876,495,C,2,135.0,pivot_turn,2.667,Control,Pt495_C_n_2876.npy
+2877,495,C,3,180.0,pivot_turn,3.713999,Control,Pt495_C_n_2877.npy
+2879,495,C,2,180.0,pivot_turn,2.571,Control,Pt495_C_n_2879.npy
+2883,398,PD,2,90.0,pivot_turn,2.428999,On medication,Pt398_PD_n_2883.npy
+2888,398,PD,2,90.0,pivot_turn,1.571,On medication,Pt398_PD_n_2888.npy
+2889,495,C,4,360.0,pivot_turn,4.046999,Control,Pt495_C_n_2889.npy
+2891,495,C,2,90.0,pivot_turn,1.904999,Control,Pt495_C_n_2891.npy
+2892,398,PD,2,90.0,pivot_turn,2.095,On medication,Pt398_PD_n_2892.npy
+2893,495,C,1,180.0,pivot_turn,1.143,Control,Pt495_C_n_2893.npy
+2915,398,PD,4,180.0,pivot_turn,2.713999,On medication,Pt398_PD_n_2915.npy
+2916,398,PD,4,180.0,pivot_turn,3.0,On medication,Pt398_PD_n_2916.npy
+2918,398,PD,2,90.0,pivot_turn,2.714999,On medication,Pt398_PD_n_2918.npy
+2922,398,PD,5,180.0,pivot_turn,3.761999,On medication,Pt398_PD_n_2922.npy
+2938,495,C,2,180.0,pivot_turn,1.619,Control,Pt495_C_n_2938.npy
+2939,398,PD,4,90.0,step_turn,3.81,On medication,Pt398_PD_n_2939.npy
+2946,398,PD,2,90.0,pivot_turn,2.094999,On medication,Pt398_PD_n_2946.npy
+2950,398,PD,2,90.0,pivot_turn,1.181999,Off medication,Pt398_PD_n_2950.npy
+2951,398,PD,4,180.0,pivot_turn,2.453999,Off medication,Pt398_PD_n_2951.npy
+2954,495,C,2,90.0,pivot_turn,1.952999,Control,Pt495_C_n_2954.npy
+2955,398,PD,3,180.0,pivot_turn,1.809,Off medication,Pt398_PD_n_2955.npy
+2956,398,PD,7,180.0,pivot_turn,4.238,Off medication,Pt398_PD_n_2956.npy
+2958,398,PD,3,180.0,pivot_turn,1.619,Off medication,Pt398_PD_n_2958.npy
+2959,398,PD,6,180.0,step_turn,2.904,Off medication,Pt398_PD_n_2959.npy
+2960,495,C,2,90.0,pivot_turn,1.143,Control,Pt495_C_n_2960.npy
+2961,495,C,1,90.0,pivot_turn,1.047,Control,Pt495_C_n_2961.npy
+2962,398,PD,4,180.0,pivot_turn,2.0,Off medication,Pt398_PD_n_2962.npy
+2964,398,PD,2,180.0,pivot_turn,1.476,Off medication,Pt398_PD_n_2964.npy
+2966,495,C,2,90.0,pivot_turn,1.189999,Control,Pt495_C_n_2966.npy
+2967,398,PD,3,180.0,pivot_turn,1.285999,Off medication,Pt398_PD_n_2967.npy
+2968,398,PD,2,180.0,pivot_turn,1.428999,Off medication,Pt398_PD_n_2968.npy
+2969,495,C,2,90.0,pivot_turn,1.095999,Control,Pt495_C_n_2969.npy
+2972,398,PD,2,90.0,step_turn,2.048,Off medication,Pt398_PD_n_2972.npy
+2974,495,C,2,90.0,pivot_turn,1.857,Control,Pt495_C_n_2974.npy
+2976,495,C,2,90.0,step_turn,2.237999,Control,Pt495_C_n_2976.npy
+2980,495,C,3,180.0,pivot_turn,1.143,Control,Pt495_C_n_2980.npy
+2981,495,C,2,135.0,pivot_turn,3.047,Control,Pt495_C_n_2981.npy
+2987,495,C,3,180.0,pivot_turn,1.238,Control,Pt495_C_n_2987.npy
+3000,495,C,2,180.0,pivot_turn,1.191,Control,Pt495_C_n_3000.npy
+3004,495,C,3,180.0,pivot_turn,2.143,Control,Pt495_C_n_3004.npy
+3021,495,C,3,135.0,pivot_turn,1.618999,Control,Pt495_C_n_3021.npy
+3027,398,PD,2,90.0,pivot_turn,1.762,On medication,Pt398_PD_n_3027.npy
+3030,398,PD,4,90.0,pivot_turn,3.856999,On medication,Pt398_PD_n_3030.npy
+3031,398,PD,2,90.0,pivot_turn,1.761999,On medication,Pt398_PD_n_3031.npy
+3052,398,PD,3,90.0,pivot_turn,2.095,On medication,Pt398_PD_n_3052.npy
+3090,495,C,2,90.0,pivot_turn,1.857,Control,Pt495_C_n_3090.npy
+3101,495,C,2,135.0,pivot_turn,1.619,Control,Pt495_C_n_3101.npy
+3120,398,PD,4,135.0,pivot_turn,2.363999,On medication,Pt398_PD_n_3120.npy
+3121,495,C,2,90.0,pivot_turn,1.428999,Control,Pt495_C_n_3121.npy
+3159,744,PD,2,90.0,pivot_turn,1.615,On medication,Pt744_PD_n_3159.npy
+3161,744,PD,2,90.0,pivot_turn,2.214999,On medication,Pt744_PD_n_3161.npy
+3165,744,PD,2,90.0,pivot_turn,1.741999,On medication,Pt744_PD_n_3165.npy
+3166,744,PD,3,90.0,pivot_turn,3.345,On medication,Pt744_PD_n_3166.npy
+3168,744,PD,2,180.0,pivot_turn,1.496,On medication,Pt744_PD_n_3168.npy
+3169,744,PD,3,90.0,pivot_turn,1.766,On medication,Pt744_PD_n_3169.npy
+3170,744,PD,3,180.0,pivot_turn,1.784,On medication,Pt744_PD_n_3170.npy
+3171,784,C,3,180.0,pivot_turn,1.335,Control,Pt784_C_n_3171.npy
+3172,744,PD,2,90.0,pivot_turn,1.628999,On medication,Pt744_PD_n_3172.npy
+3173,784,C,3,180.0,pivot_turn,1.205999,Control,Pt784_C_n_3173.npy
+3175,784,C,3,180.0,pivot_turn,1.873999,Control,Pt784_C_n_3175.npy
+3176,784,C,4,180.0,pivot_turn,2.053999,Control,Pt784_C_n_3176.npy
+3177,784,C,3,180.0,pivot_turn,1.366999,Control,Pt784_C_n_3177.npy
+3178,784,C,3,180.0,pivot_turn,1.083999,Control,Pt784_C_n_3178.npy
+3179,744,PD,4,90.0,step_turn,1.724,On medication,Pt744_PD_n_3179.npy
+3180,784,C,3,180.0,pivot_turn,1.984999,Control,Pt784_C_n_3180.npy
+3181,744,PD,3,90.0,pivot_turn,1.868,On medication,Pt744_PD_n_3181.npy
+3184,744,PD,2,90.0,pivot_turn,1.316999,On medication,Pt744_PD_n_3184.npy
+3185,744,PD,3,135.0,pivot_turn,1.918999,On medication,Pt744_PD_n_3185.npy
+3186,744,PD,3,90.0,pivot_turn,2.212999,On medication,Pt744_PD_n_3186.npy
+3187,744,PD,4,180.0,pivot_turn,2.172,On medication,Pt744_PD_n_3187.npy
+3188,784,C,2,90.0,pivot_turn,1.587,Control,Pt784_C_n_3188.npy
+3189,744,PD,3,135.0,step_turn,1.716,On medication,Pt744_PD_n_3189.npy
+3190,784,C,2,90.0,pivot_turn,1.482,Control,Pt784_C_n_3190.npy
+3191,784,C,2,90.0,pivot_turn,1.213999,Control,Pt784_C_n_3191.npy
+3192,744,PD,3,180.0,pivot_turn,2.148,On medication,Pt744_PD_n_3192.npy
+3193,744,PD,4,180.0,pivot_turn,2.564999,On medication,Pt744_PD_n_3193.npy
+3194,784,C,2,90.0,pivot_turn,1.679,Control,Pt784_C_n_3194.npy
+3195,784,C,2,90.0,pivot_turn,2.288,Control,Pt784_C_n_3195.npy
+3196,744,PD,4,180.0,pivot_turn,1.453,On medication,Pt744_PD_n_3196.npy
+3197,744,PD,4,180.0,pivot_turn,1.776999,On medication,Pt744_PD_n_3197.npy
+3198,784,C,3,90.0,pivot_turn,2.95,Control,Pt784_C_n_3198.npy
+3202,784,C,3,90.0,pivot_turn,1.523,Control,Pt784_C_n_3202.npy
+3203,784,C,2,90.0,pivot_turn,1.398999,Control,Pt784_C_n_3203.npy
+3204,784,C,3,90.0,pivot_turn,2.521999,Control,Pt784_C_n_3204.npy
+3218,744,PD,2,90.0,pivot_turn,2.561999,On medication,Pt744_PD_n_3218.npy
+3220,744,PD,4,135.0,step_turn,2.334,On medication,Pt744_PD_n_3220.npy
+3221,744,PD,3,90.0,step_turn,2.173999,On medication,Pt744_PD_n_3221.npy
+3222,744,PD,3,90.0,pivot_turn,2.686999,On medication,Pt744_PD_n_3222.npy
+3223,784,C,2,90.0,pivot_turn,2.134,Control,Pt784_C_n_3223.npy
+3224,744,PD,3,90.0,pivot_turn,1.556,On medication,Pt744_PD_n_3224.npy
+3225,784,C,2,135.0,pivot_turn,1.929999,Control,Pt784_C_n_3225.npy
+3226,744,PD,3,90.0,pivot_turn,2.204,On medication,Pt744_PD_n_3226.npy
+3227,744,PD,3,90.0,pivot_turn,1.812999,On medication,Pt744_PD_n_3227.npy
+3229,784,C,3,135.0,pivot_turn,2.052999,Control,Pt784_C_n_3229.npy
+3231,784,C,3,180.0,pivot_turn,1.665,Control,Pt784_C_n_3231.npy
+3232,784,C,2,90.0,pivot_turn,1.292999,Control,Pt784_C_n_3232.npy
+3233,744,PD,4,180.0,step_turn,3.19,On medication,Pt744_PD_n_3233.npy
+3237,784,C,2,90.0,pivot_turn,1.680999,Control,Pt784_C_n_3237.npy
+3238,784,C,2,90.0,pivot_turn,1.372999,Control,Pt784_C_n_3238.npy
+3239,784,C,2,90.0,pivot_turn,1.652999,Control,Pt784_C_n_3239.npy
+3241,784,C,3,135.0,pivot_turn,1.760999,Control,Pt784_C_n_3241.npy
+3244,784,C,2,90.0,pivot_turn,1.686,Control,Pt784_C_n_3244.npy
+3245,744,PD,2,90.0,pivot_turn,2.28,On medication,Pt744_PD_n_3245.npy
+3246,784,C,2,90.0,pivot_turn,1.375,Control,Pt784_C_n_3246.npy
+3248,744,PD,4,180.0,step_turn,4.074999,On medication,Pt744_PD_n_3248.npy
+3249,744,PD,3,90.0,step_turn,3.884,On medication,Pt744_PD_n_3249.npy
+3250,744,PD,4,135.0,step_turn,3.357999,On medication,Pt744_PD_n_3250.npy
+3251,744,PD,4,135.0,step_turn,5.316999,On medication,Pt744_PD_n_3251.npy
+3252,744,PD,4,90.0,step_turn,6.64,On medication,Pt744_PD_n_3252.npy
+3253,744,PD,2,90.0,step_turn,2.381999,On medication,Pt744_PD_n_3253.npy
+3254,744,PD,6,180.0,step_turn,5.165999,On medication,Pt744_PD_n_3254.npy
+3257,744,PD,2,90.0,pivot_turn,1.447,On medication,Pt744_PD_n_3257.npy
+3258,744,PD,2,90.0,pivot_turn,2.751,On medication,Pt744_PD_n_3258.npy
+3259,744,PD,4,90.0,step_turn,3.656,On medication,Pt744_PD_n_3259.npy
+3260,744,PD,3,90.0,step_turn,3.5,On medication,Pt744_PD_n_3260.npy
+3266,744,PD,4,135.0,step_turn,2.598,On medication,Pt744_PD_n_3266.npy
+3267,744,PD,4,180.0,step_turn,2.934,On medication,Pt744_PD_n_3267.npy
+3268,744,PD,4,180.0,step_turn,3.015,On medication,Pt744_PD_n_3268.npy
+3270,744,PD,3,135.0,pivot_turn,3.937,On medication,Pt744_PD_n_3270.npy
+3276,784,C,2,90.0,pivot_turn,1.596999,Control,Pt784_C_n_3276.npy
+3277,784,C,2,90.0,pivot_turn,1.773,Control,Pt784_C_n_3277.npy
+3278,784,C,2,90.0,pivot_turn,2.004999,Control,Pt784_C_n_3278.npy
+3279,784,C,2,90.0,pivot_turn,1.700999,Control,Pt784_C_n_3279.npy
+3281,744,PD,3,135.0,pivot_turn,2.460999,On medication,Pt744_PD_n_3281.npy
+3282,744,PD,2,90.0,pivot_turn,1.91,On medication,Pt744_PD_n_3282.npy
+3283,744,PD,2,90.0,pivot_turn,2.937999,On medication,Pt744_PD_n_3283.npy
+3284,744,PD,3,135.0,pivot_turn,2.965999,On medication,Pt744_PD_n_3284.npy
+3285,744,PD,2,135.0,pivot_turn,2.744,On medication,Pt744_PD_n_3285.npy
+3286,784,C,2,135.0,pivot_turn,1.636,Control,Pt784_C_n_3286.npy
+3287,744,PD,2,90.0,pivot_turn,2.421999,On medication,Pt744_PD_n_3287.npy
+3289,784,C,2,90.0,pivot_turn,1.323999,Control,Pt784_C_n_3289.npy
+3291,744,PD,4,135.0,step_turn,3.538,On medication,Pt744_PD_n_3291.npy
+3293,744,PD,3,135.0,pivot_turn,2.253999,On medication,Pt744_PD_n_3293.npy
+3294,744,PD,2,90.0,pivot_turn,2.055,On medication,Pt744_PD_n_3294.npy
+3295,744,PD,2,90.0,pivot_turn,1.887,On medication,Pt744_PD_n_3295.npy
+3296,744,PD,2,90.0,pivot_turn,2.704,On medication,Pt744_PD_n_3296.npy
+3297,744,PD,2,180.0,pivot_turn,1.78,On medication,Pt744_PD_n_3297.npy
+3298,744,PD,4,135.0,step_turn,2.872,On medication,Pt744_PD_n_3298.npy
+3300,744,PD,3,90.0,pivot_turn,1.974999,On medication,Pt744_PD_n_3300.npy
+3301,784,C,2,90.0,pivot_turn,2.134,Control,Pt784_C_n_3301.npy
+3302,744,PD,4,135.0,pivot_turn,2.968999,On medication,Pt744_PD_n_3302.npy
+3304,744,PD,2,90.0,pivot_turn,2.715,On medication,Pt744_PD_n_3304.npy
+3305,744,PD,2,90.0,pivot_turn,1.431,On medication,Pt744_PD_n_3305.npy
+3306,744,PD,4,180.0,pivot_turn,4.481999,On medication,Pt744_PD_n_3306.npy
+3309,744,PD,3,135.0,pivot_turn,2.624,On medication,Pt744_PD_n_3309.npy
+3311,784,C,1,90.0,pivot_turn,1.555,Control,Pt784_C_n_3311.npy
+3312,744,PD,3,90.0,step_turn,2.581999,On medication,Pt744_PD_n_3312.npy
+3313,744,PD,2,135.0,pivot_turn,2.294999,On medication,Pt744_PD_n_3313.npy
+3314,744,PD,2,90.0,pivot_turn,2.234,On medication,Pt744_PD_n_3314.npy
+3315,744,PD,2,90.0,pivot_turn,1.790999,On medication,Pt744_PD_n_3315.npy
+3316,744,PD,4,90.0,pivot_turn,2.434999,On medication,Pt744_PD_n_3316.npy
+3319,744,PD,4,135.0,pivot_turn,2.647,On medication,Pt744_PD_n_3319.npy
+3320,744,PD,2,90.0,pivot_turn,2.05,On medication,Pt744_PD_n_3320.npy
+3321,744,PD,3,90.0,pivot_turn,1.770999,On medication,Pt744_PD_n_3321.npy
+3322,784,C,4,225.0,pivot_turn,3.323,Control,Pt784_C_n_3322.npy
+3332,744,PD,3,90.0,pivot_turn,1.989,Off medication,Pt744_PD_n_3332.npy
+3333,744,PD,3,135.0,pivot_turn,1.876999,Off medication,Pt744_PD_n_3333.npy
+3334,744,PD,2,90.0,pivot_turn,1.754,Off medication,Pt744_PD_n_3334.npy
+3335,744,PD,3,135.0,pivot_turn,1.5,Off medication,Pt744_PD_n_3335.npy
+3336,744,PD,2,90.0,pivot_turn,1.92,Off medication,Pt744_PD_n_3336.npy
+3337,744,PD,3,135.0,pivot_turn,1.296,Off medication,Pt744_PD_n_3337.npy
+3338,744,PD,2,90.0,pivot_turn,1.84,Off medication,Pt744_PD_n_3338.npy
+3339,744,PD,4,135.0,step_turn,2.126999,Off medication,Pt744_PD_n_3339.npy
+3340,744,PD,2,135.0,pivot_turn,2.065999,Off medication,Pt744_PD_n_3340.npy
+3341,744,PD,2,135.0,pivot_turn,1.611,Off medication,Pt744_PD_n_3341.npy
+3342,744,PD,2,90.0,pivot_turn,1.713999,Off medication,Pt744_PD_n_3342.npy
+3343,744,PD,3,135.0,pivot_turn,1.793999,Off medication,Pt744_PD_n_3343.npy
+3344,744,PD,2,90.0,pivot_turn,1.739,Off medication,Pt744_PD_n_3344.npy
+3345,744,PD,2,90.0,pivot_turn,1.604999,Off medication,Pt744_PD_n_3345.npy
+3346,784,C,2,90.0,pivot_turn,2.19,Control,Pt784_C_n_3346.npy
+3347,784,C,4,135.0,pivot_turn,2.079,Control,Pt784_C_n_3347.npy
+3351,744,PD,4,135.0,step_turn,2.030999,Off medication,Pt744_PD_n_3351.npy
+3354,784,C,3,180.0,pivot_turn,2.266,Control,Pt784_C_n_3354.npy
+3355,784,C,4,180.0,pivot_turn,2.636999,Control,Pt784_C_n_3355.npy
+3357,784,C,3,135.0,pivot_turn,1.996,Control,Pt784_C_n_3357.npy
+3358,784,C,3,180.0,pivot_turn,2.267,Control,Pt784_C_n_3358.npy
+3361,784,C,2,90.0,pivot_turn,2.012,Control,Pt784_C_n_3361.npy
+3362,784,C,2,90.0,pivot_turn,1.452,Control,Pt784_C_n_3362.npy
+3363,784,C,2,90.0,pivot_turn,1.678,Control,Pt784_C_n_3363.npy
+3364,784,C,2,90.0,pivot_turn,1.387,Control,Pt784_C_n_3364.npy
+3365,784,C,2,90.0,pivot_turn,1.516,Control,Pt784_C_n_3365.npy
+3366,784,C,2,90.0,pivot_turn,1.485999,Control,Pt784_C_n_3366.npy
+3367,784,C,2,90.0,pivot_turn,2.036999,Control,Pt784_C_n_3367.npy
+3369,744,PD,2,90.0,pivot_turn,1.371,Off medication,Pt744_PD_n_3369.npy
+3370,784,C,3,180.0,pivot_turn,1.728999,Control,Pt784_C_n_3370.npy
+3372,744,PD,2,90.0,pivot_turn,1.565,On medication,Pt744_PD_n_3372.npy
+3373,744,PD,5,225.0,step_turn,3.104,On medication,Pt744_PD_n_3373.npy
+3374,784,C,4,180.0,pivot_turn,1.556999,Control,Pt784_C_n_3374.npy
+3375,784,C,4,180.0,pivot_turn,2.108999,Control,Pt784_C_n_3375.npy
+3378,744,PD,3,135.0,pivot_turn,1.808999,On medication,Pt744_PD_n_3378.npy
+3379,784,C,3,180.0,pivot_turn,1.673,Control,Pt784_C_n_3379.npy
+3381,784,C,5,180.0,pivot_turn,1.567999,Control,Pt784_C_n_3381.npy
+3382,784,C,3,180.0,pivot_turn,2.164999,Control,Pt784_C_n_3382.npy
+3383,784,C,4,180.0,pivot_turn,2.422999,Control,Pt784_C_n_3383.npy
+3384,784,C,3,180.0,pivot_turn,1.542999,Control,Pt784_C_n_3384.npy
+3386,744,PD,2,90.0,pivot_turn,1.429,On medication,Pt744_PD_n_3386.npy
+3387,744,PD,2,90.0,pivot_turn,1.308,On medication,Pt744_PD_n_3387.npy
+3388,744,PD,3,90.0,pivot_turn,2.678999,On medication,Pt744_PD_n_3388.npy
+3389,744,PD,4,180.0,pivot_turn,1.909999,On medication,Pt744_PD_n_3389.npy
+3390,744,PD,3,180.0,pivot_turn,1.321,On medication,Pt744_PD_n_3390.npy
+3391,744,PD,4,180.0,step_turn,2.541,On medication,Pt744_PD_n_3391.npy
+3392,744,PD,3,180.0,pivot_turn,2.027,On medication,Pt744_PD_n_3392.npy
+3393,744,PD,5,180.0,step_turn,3.108999,On medication,Pt744_PD_n_3393.npy
+3395,744,PD,2,180.0,pivot_turn,1.238999,On medication,Pt744_PD_n_3395.npy
+3396,744,PD,4,180.0,pivot_turn,1.826,On medication,Pt744_PD_n_3396.npy
+3397,744,PD,2,90.0,pivot_turn,2.103,On medication,Pt744_PD_n_3397.npy
+3398,744,PD,4,180.0,pivot_turn,1.709,On medication,Pt744_PD_n_3398.npy
+3399,744,PD,3,180.0,pivot_turn,1.598999,On medication,Pt744_PD_n_3399.npy
+3400,744,PD,3,180.0,pivot_turn,1.956,On medication,Pt744_PD_n_3400.npy
+3405,744,PD,4,180.0,step_turn,3.612999,On medication,Pt744_PD_n_3405.npy
+3408,784,C,2,90.0,pivot_turn,1.933999,Control,Pt784_C_n_3408.npy
+3414,744,PD,3,90.0,pivot_turn,2.839999,On medication,Pt744_PD_n_3414.npy
+3416,784,C,3,180.0,pivot_turn,2.478,Control,Pt784_C_n_3416.npy
+3419,744,PD,3,180.0,pivot_turn,2.926999,On medication,Pt744_PD_n_3419.npy
+3420,784,C,2,90.0,pivot_turn,2.072999,Control,Pt784_C_n_3420.npy
+3421,744,PD,5,180.0,step_turn,2.536,On medication,Pt744_PD_n_3421.npy
+3422,744,PD,2,90.0,pivot_turn,1.758,On medication,Pt744_PD_n_3422.npy
+3425,744,PD,5,225.0,step_turn,2.677999,On medication,Pt744_PD_n_3425.npy
+3426,744,PD,4,135.0,step_turn,2.139,On medication,Pt744_PD_n_3426.npy
+3427,744,PD,3,180.0,pivot_turn,2.577,On medication,Pt744_PD_n_3427.npy
+3431,744,PD,2,90.0,pivot_turn,1.7,On medication,Pt744_PD_n_3431.npy
+3432,744,PD,5,180.0,step_turn,5.403,On medication,Pt744_PD_n_3432.npy
+3440,744,PD,3,90.0,step_turn,1.332999,On medication,Pt744_PD_n_3440.npy
+3442,744,PD,3,135.0,step_turn,3.229999,On medication,Pt744_PD_n_3442.npy
+3443,744,PD,3,90.0,pivot_turn,2.079,On medication,Pt744_PD_n_3443.npy
+3445,416,C,2,90.0,pivot_turn,2.279,Control,Pt416_C_n_3445.npy
+3447,253,PD,2,135.0,pivot_turn,1.151999,On medication,Pt253_PD_n_3447.npy
+3448,416,C,2,135.0,pivot_turn,1.948999,Control,Pt416_C_n_3448.npy
+3449,416,C,3,135.0,pivot_turn,1.528999,Control,Pt416_C_n_3449.npy
+3450,253,PD,2,135.0,pivot_turn,1.397999,On medication,Pt253_PD_n_3450.npy
+3452,253,PD,2,90.0,pivot_turn,1.704,On medication,Pt253_PD_n_3452.npy
+3455,253,PD,2,90.0,pivot_turn,1.128,On medication,Pt253_PD_n_3455.npy
+3456,416,C,3,180.0,pivot_turn,1.429999,Control,Pt416_C_n_3456.npy
+3457,416,C,3,180.0,pivot_turn,1.491999,Control,Pt416_C_n_3457.npy
+3459,253,PD,2,135.0,pivot_turn,1.848,Control,Pt253_PD_n_3459.npy
+3460,416,C,3,180.0,pivot_turn,1.848,On medication,Pt416_C_n_3460.npy
+3461,416,C,2,180.0,pivot_turn,1.797999,Control,Pt416_C_n_3461.npy
+3462,416,C,3,180.0,pivot_turn,2.151999,Control,Pt416_C_n_3462.npy
+3467,416,C,2,90.0,pivot_turn,1.439,Control,Pt416_C_n_3467.npy
+3468,416,C,2,90.0,pivot_turn,1.348999,Control,Pt416_C_n_3468.npy
+3469,416,C,3,135.0,pivot_turn,1.881999,Control,Pt416_C_n_3469.npy
+3470,416,C,2,90.0,pivot_turn,1.668999,Control,Pt416_C_n_3470.npy
+3471,416,C,2,90.0,pivot_turn,1.827999,Control,Pt416_C_n_3471.npy
+3472,416,C,2,90.0,pivot_turn,1.718,Control,Pt416_C_n_3472.npy
+3476,416,C,3,90.0,pivot_turn,2.608999,Control,Pt416_C_n_3476.npy
+3479,416,C,2,90.0,pivot_turn,2.104999,Control,Pt416_C_n_3479.npy
+3481,416,C,2,90.0,pivot_turn,1.256999,Control,Pt416_C_n_3481.npy
+3482,253,PD,4,180.0,pivot_turn,2.02,On medication,Pt253_PD_n_3482.npy
+3484,253,PD,3,180.0,pivot_turn,1.236999,On medication,Pt253_PD_n_3484.npy
+3486,253,PD,4,180.0,step_turn,2.062,On medication,Pt253_PD_n_3486.npy
+3488,253,PD,3,180.0,pivot_turn,1.247,On medication,Pt253_PD_n_3488.npy
+3491,416,C,2,90.0,pivot_turn,1.956999,Control,Pt416_C_n_3491.npy
+3499,253,PD,4,180.0,pivot_turn,3.716,On medication,Pt253_PD_n_3499.npy
+3500,416,C,3,135.0,pivot_turn,2.39,Control,Pt416_C_n_3500.npy
+3503,416,C,2,90.0,pivot_turn,1.764,Control,Pt416_C_n_3503.npy
+3505,416,C,2,135.0,pivot_turn,1.139,Control,Pt416_C_n_3505.npy
+3511,416,C,2,90.0,pivot_turn,1.819,Control,Pt416_C_n_3511.npy
+3513,416,C,2,90.0,pivot_turn,1.393999,Control,Pt416_C_n_3513.npy
+3514,416,C,3,135.0,pivot_turn,1.312,Control,Pt416_C_n_3514.npy
+3515,416,C,2,90.0,pivot_turn,1.545999,Control,Pt416_C_n_3515.npy
+3517,416,C,1,135.0,pivot_turn,1.723,Control,Pt416_C_n_3517.npy
+3519,416,C,3,180.0,pivot_turn,2.165999,Control,Pt416_C_n_3519.npy
+3521,416,C,2,135.0,pivot_turn,1.118,Control,Pt416_C_n_3521.npy
+3525,416,C,3,180.0,pivot_turn,1.962999,Control,Pt416_C_n_3525.npy
+3526,416,C,2,135.0,pivot_turn,1.588,Control,Pt416_C_n_3526.npy
+3527,416,C,2,90.0,pivot_turn,1.277999,Control,Pt416_C_n_3527.npy
+3532,416,C,2,90.0,pivot_turn,1.885999,Control,Pt416_C_n_3532.npy
+3533,416,C,2,90.0,pivot_turn,1.601,Control,Pt416_C_n_3533.npy
+3538,416,C,2,90.0,pivot_turn,1.27,Control,Pt416_C_n_3538.npy
+3541,416,C,2,90.0,pivot_turn,1.46,Control,Pt416_C_n_3541.npy
+3545,416,C,3,180.0,pivot_turn,2.020999,Control,Pt416_C_n_3545.npy
+3547,416,C,3,180.0,pivot_turn,1.835,Control,Pt416_C_n_3547.npy
+3548,253,PD,3,90.0,step_turn,2.895,On medication,Pt253_PD_n_3548.npy
+3550,416,C,2,135.0,pivot_turn,1.062,Control,Pt416_C_n_3550.npy
+3551,416,C,2,135.0,pivot_turn,1.508999,Control,Pt416_C_n_3551.npy
+3552,416,C,2,180.0,pivot_turn,1.999,Control,Pt416_C_n_3552.npy
+3553,416,C,3,180.0,pivot_turn,1.613,Control,Pt416_C_n_3553.npy
+3555,253,PD,3,90.0,step_turn,2.608,On medication,Pt253_PD_n_3555.npy
+3561,416,C,2,135.0,pivot_turn,1.128,Control,Pt416_C_n_3561.npy
+3562,416,C,3,135.0,pivot_turn,1.644,Control,Pt416_C_n_3562.npy
+3563,416,C,2,90.0,pivot_turn,1.4,Control,Pt416_C_n_3563.npy
+3565,416,C,2,90.0,pivot_turn,1.341999,Control,Pt416_C_n_3565.npy
+3572,253,PD,2,90.0,pivot_turn,1.865999,On medication,Pt253_PD_n_3572.npy
+3575,253,PD,3,90.0,pivot_turn,3.096999,On medication,Pt253_PD_n_3575.npy
+3578,253,PD,2,90.0,pivot_turn,1.336999,On medication,Pt253_PD_n_3578.npy
+3579,253,PD,2,90.0,pivot_turn,1.855,On medication,Pt253_PD_n_3579.npy
+3580,253,PD,2,90.0,pivot_turn,1.838,On medication,Pt253_PD_n_3580.npy
+3581,253,PD,2,180.0,pivot_turn,2.358999,On medication,Pt253_PD_n_3581.npy
+3586,253,PD,2,90.0,pivot_turn,2.036,On medication,Pt253_PD_n_3586.npy
+3587,253,PD,3,135.0,pivot_turn,2.5,On medication,Pt253_PD_n_3587.npy
+3588,253,PD,2,90.0,pivot_turn,2.059,On medication,Pt253_PD_n_3588.npy
+3591,416,C,2,90.0,pivot_turn,1.471,Control,Pt416_C_n_3591.npy
+3592,416,C,2,90.0,pivot_turn,1.368999,Control,Pt416_C_n_3592.npy
+3593,253,PD,2,90.0,pivot_turn,1.217,On medication,Pt253_PD_n_3593.npy
+3594,416,C,2,90.0,pivot_turn,1.784,Control,Pt416_C_n_3594.npy
+3596,416,C,2,90.0,pivot_turn,1.402,Control,Pt416_C_n_3596.npy
+3599,253,PD,2,90.0,pivot_turn,2.124999,On medication,Pt253_PD_n_3599.npy
+3600,416,C,3,135.0,pivot_turn,1.639,Control,Pt416_C_n_3600.npy
+3601,416,C,2,180.0,pivot_turn,1.242,Control,Pt416_C_n_3601.npy
+3604,416,C,2,180.0,pivot_turn,1.691,Control,Pt416_C_n_3604.npy
+3607,253,PD,2,135.0,pivot_turn,1.95,On medication,Pt253_PD_n_3607.npy
+3610,416,C,2,90.0,pivot_turn,1.53,Control,Pt416_C_n_3610.npy
+3611,416,C,3,135.0,pivot_turn,1.153,Control,Pt416_C_n_3611.npy
+3612,416,C,3,135.0,pivot_turn,1.5,Control,Pt416_C_n_3612.npy
+3615,416,C,3,180.0,pivot_turn,1.543,Control,Pt416_C_n_3615.npy
+3616,416,C,2,90.0,pivot_turn,1.356999,Control,Pt416_C_n_3616.npy
+3617,416,C,2,90.0,pivot_turn,1.221999,Control,Pt416_C_n_3617.npy
+3618,416,C,2,135.0,pivot_turn,1.477,Control,Pt416_C_n_3618.npy
+3622,416,C,2,135.0,pivot_turn,1.342,Control,Pt416_C_n_3622.npy
+3631,253,PD,4,135.0,step_turn,3.100999,On medication,Pt253_PD_n_3631.npy
+3645,253,PD,2,90.0,pivot_turn,1.829999,Off medication,Pt253_PD_n_3645.npy
+3652,253,PD,2,90.0,pivot_turn,1.496,Off medication,Pt253_PD_n_3652.npy
+3665,253,PD,1,90.0,pivot_turn,1.966999,Off medication,Pt253_PD_n_3665.npy
+3667,416,C,3,90.0,pivot_turn,1.972,Control,Pt416_C_n_3667.npy
+3668,416,C,2,90.0,pivot_turn,1.513999,Control,Pt416_C_n_3668.npy
+3670,416,C,2,90.0,pivot_turn,1.485,Control,Pt416_C_n_3670.npy
+3671,416,C,4,180.0,pivot_turn,2.228999,Control,Pt416_C_n_3671.npy
+3672,416,C,2,90.0,pivot_turn,1.257,Control,Pt416_C_n_3672.npy
+3674,416,C,3,135.0,pivot_turn,2.456999,Control,Pt416_C_n_3674.npy
+3675,416,C,3,180.0,pivot_turn,1.714,Control,Pt416_C_n_3675.npy
+3676,416,C,2,90.0,pivot_turn,1.914,Control,Pt416_C_n_3676.npy
+3677,416,C,1,90.0,pivot_turn,1.286,Control,Pt416_C_n_3677.npy
+3681,416,C,2,90.0,pivot_turn,1.457,Control,Pt416_C_n_3681.npy
+3682,253,PD,4,180.0,pivot_turn,1.732999,Off medication,Pt253_PD_n_3682.npy
+3684,416,C,3,180.0,pivot_turn,2.257,Control,Pt416_C_n_3684.npy
+3685,253,PD,3,180.0,pivot_turn,1.628999,Off medication,Pt253_PD_n_3685.npy
+3686,253,PD,3,180.0,pivot_turn,1.2,Off medication,Pt253_PD_n_3686.npy
+3690,253,PD,4,180.0,step_turn,1.941999,Off medication,Pt253_PD_n_3690.npy
+3693,416,C,2,90.0,pivot_turn,1.4,Control,Pt416_C_n_3693.npy
+3695,416,C,2,90.0,pivot_turn,1.856999,Control,Pt416_C_n_3695.npy
+3696,416,C,3,90.0,pivot_turn,1.914999,Control,Pt416_C_n_3696.npy
+3697,416,C,2,90.0,pivot_turn,1.572,Control,Pt416_C_n_3697.npy
+3698,416,C,2,90.0,pivot_turn,1.656999,Control,Pt416_C_n_3698.npy
+3699,416,C,2,90.0,pivot_turn,1.342999,Control,Pt416_C_n_3699.npy
+3704,416,C,2,90.0,pivot_turn,1.429,Control,Pt416_C_n_3704.npy
+3707,416,C,3,135.0,pivot_turn,1.714,Control,Pt416_C_n_3707.npy
+3708,416,C,2,90.0,pivot_turn,1.741999,Control,Pt416_C_n_3708.npy
+3709,416,C,2,135.0,pivot_turn,1.542999,Control,Pt416_C_n_3709.npy
+3710,416,C,2,90.0,pivot_turn,1.6,Control,Pt416_C_n_3710.npy
+3711,416,C,3,90.0,pivot_turn,1.914,Control,Pt416_C_n_3711.npy
+3712,416,C,2,90.0,pivot_turn,2.085999,Control,Pt416_C_n_3712.npy
+3714,416,C,2,135.0,pivot_turn,1.142999,Control,Pt416_C_n_3714.npy
+3716,416,C,2,90.0,pivot_turn,1.371,Control,Pt416_C_n_3716.npy
+3718,253,PD,2,90.0,pivot_turn,1.485,Off medication,Pt253_PD_n_3718.npy
+3723,253,PD,4,135.0,step_turn,5.095,On medication,Pt253_PD_n_3723.npy
+3726,253,PD,2,90.0,pivot_turn,1.809999,On medication,Pt253_PD_n_3726.npy
+3727,253,PD,2,90.0,pivot_turn,1.572,On medication,Pt253_PD_n_3727.npy
+3728,253,PD,2,180.0,pivot_turn,1.524,On medication,Pt253_PD_n_3728.npy
+3729,253,PD,2,90.0,pivot_turn,1.761999,On medication,Pt253_PD_n_3729.npy
+3730,253,PD,2,90.0,pivot_turn,1.380999,On medication,Pt253_PD_n_3730.npy
+3731,253,PD,2,90.0,pivot_turn,1.427999,On medication,Pt253_PD_n_3731.npy
+3732,253,PD,2,90.0,pivot_turn,1.808999,On medication,Pt253_PD_n_3732.npy
+3735,253,PD,3,180.0,pivot_turn,1.618999,On medication,Pt253_PD_n_3735.npy
+3736,253,PD,4,180.0,pivot_turn,2.332999,On medication,Pt253_PD_n_3736.npy
+3737,253,PD,3,180.0,pivot_turn,1.334,On medication,Pt253_PD_n_3737.npy
+3738,253,PD,4,180.0,pivot_turn,2.619,On medication,Pt253_PD_n_3738.npy
+3739,253,PD,4,180.0,pivot_turn,1.81,On medication,Pt253_PD_n_3739.npy
+3740,253,PD,4,180.0,pivot_turn,2.762,On medication,Pt253_PD_n_3740.npy
+3741,253,PD,3,180.0,pivot_turn,1.048,On medication,Pt253_PD_n_3741.npy
+3742,253,PD,3,180.0,pivot_turn,1.284999,On medication,Pt253_PD_n_3742.npy
+3743,416,C,3,180.0,pivot_turn,2.142999,Control,Pt416_C_n_3743.npy
+3744,416,C,3,90.0,pivot_turn,1.714,Control,Pt416_C_n_3744.npy
